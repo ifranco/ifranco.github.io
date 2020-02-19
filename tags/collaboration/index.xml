@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>collaboration | Ivan Franco</title>
+    <link>https://ifranco.github.io/tags/collaboration/</link>
+      <atom:link href="https://ifranco.github.io/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>collaboration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>collaboration</title>
+      <link>https://ifranco.github.io/tags/collaboration/</link>
+    </image>
+    
+    <item>
+      <title>Haptic Field</title>
+      <link>https://ifranco.github.io/project/haptic-field/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/haptic-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilinx</title>
+      <link>https://ifranco.github.io/project/ilinx/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/ilinx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ivan Franco</title>
+    <link>https://ifranco.github.io/authors/ivan-franco/</link>
+      <atom:link href="https://ifranco.github.io/authors/ivan-franco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ivan Franco</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Ivan Franco</title>
+      <link>https://ifranco.github.io/authors/ivan-franco/</link>
+    </image>
+    
+    <item>
+      <title>Prynth</title>
+      <link>https://ifranco.github.io/project/prynth/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/prynth/</guid>
+      <description>&lt;p&gt;Prynth are programmable sound synthesizers powered by single-board computers. They combine the advantages of dedicated hardware with the flexibility of programming.&lt;/p&gt;
+&lt;p&gt;This project&amp;rsquo;s goal is to develop a set of free technologies and guides for instrument assembly, while fostering knowledge exchange and discussion between creators.&lt;/p&gt;
+&lt;p&gt;For more information visit the 
+&lt;a href=&#34;https://prynth.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official Prynth site&lt;/a&gt;
+ and the 
+&lt;a href=&#34;https://www.facebook.com/prynth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook page&lt;/a&gt;
+.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/control_rpi.jpg&#34; data-caption=&#34;Prynth&amp;amp;rsquo;s base hardware system.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/control_rpi_hu75b438d50cc80c55d80a4c4e6f8bff49_632359_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/mitt_composition.png&#34; data-caption=&#34;The Mitt, my own instrument.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/mitt_composition_hud47a73a396af7447fd38496d5c6f9504_33233483_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox3.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox3_hu1ef4a4afe9caffe5e78077dd4e9d7047_945428_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox4.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox4_hu1be48b288e9fc5ee91e7a968a03f492e_649921_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;126&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/rr1.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/rr1_huc797396d9f3d6b910be8d805291db43d_159941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/rr3.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/rr3_hu48b0e80ee95aa58f48c045794e35b51a_205156_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard1.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard1_hu5d2f68952d89739b943829766d849621_100546_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard2.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard2_hub11a01f88290f86b3b46a3200c14cf57_356078_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;p&gt;Prynth is a significant part of my research at the 
+&lt;a href=&#34;http://www-new.idmil.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Input Devices and Music Interaction Laboratory (IDMIL)&lt;/a&gt;
+ / 
+&lt;a href=&#34;http://www.cirmmt.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIRMMT&lt;/a&gt;
+ / McGill University, under the supervision of Marcelo M. Wanderley and sponsored by the 
+&lt;a href=&#34;https://www.fct.pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fundação para a Ciência e Tecnologia (FCT)&lt;/a&gt;
+.&lt;/p&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;p&gt;Harish Venkatesan, Ajin Tom and Antoine Maiorca.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vibropixels</title>
+      <link>https://ifranco.github.io/project/vibropixels/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/vibropixels/</guid>
+      <description>&lt;p&gt;The Vibropixels are self-contained haptic devices, composed of two vibrotactile actuators, four RGB LEDs and a battery. They can be used to create haptic feedback systems for wearables or other interactive devices. The Vibropixels can be controlled individually or by the hundreds, which makes them useful for interactive works with many users or the creation of high-density tactile displays.&lt;/p&gt;
+&lt;p&gt;The Vibropixels were used in Haptic Fields by Chris Salter and Tez.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/vibropixels/VPs_manufacture_huf8690bd31b26794d34b9cd6d5b8623f0_56891_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;140 Vibropixels, manufactured for the Haptic Fields interactive installation (photo by Ian Hattwick).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/vibropixels/VPs_manufacture_huf8690bd31b26794d34b9cd6d5b8623f0_56891_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;300&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    140 Vibropixels, manufactured for the Haptic Fields interactive installation (photo by Ian Hattwick).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RgLn6MHrKeQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+&lt;p&gt;Ian Hattwick and Ivan Franco: Hardware and Software design&lt;/p&gt;
+&lt;p&gt;Marcelo M. Wanderley: Technical Supervision&lt;/p&gt;
+&lt;p&gt;Chris Salter: Artistic Supervision&lt;/p&gt;
+&lt;p&gt;Patrick Ignoto, Julian Neri, Alex Nieva, and Louis Fournier: Technical assistance&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;Funding provided by the Fonds de recherche du Québec – Société et culture&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ynvisible</title>
+      <link>https://ifranco.github.io/project/ynvisible/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/ynvisible/</guid>
+      <description>&lt;p&gt;In the late 2000s YDreams&amp;rsquo;s began a research division dedicated to printed electronics and electrochromic displays, later raising significant investment to spin-off as 
+&lt;a href=&#34;https://www.ynvisible.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ynvisible&lt;/a&gt;
+. At the time we were mainly looking at inkjet solutions but since then Ynvisible has mastered industrialized manufacturing through roll-to-roll processes.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/ynvisible/electrochromic_hu83b10f879877779c586536c09fe26f34_19825_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;An electrochromic display.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/ynvisible/electrochromic_hu83b10f879877779c586536c09fe26f34_19825_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    An electrochromic display.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Ynvisible holds several patents and is traded on TSX Venture Exchange (Canada), OTCQB Venture Market (US) and the Frankfurt Stock Exchange (Germany).&lt;/p&gt;
+&lt;h2 id=&#34;ynvisible-showreel&#34;&gt;Ynvisible Showreel&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/hIb6-rWC-7A&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;ynvisible-on-the-big-biz-show&#34;&gt;Ynvisible on the Big Biz Show&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/mwK32xSbug8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>I-Garment</title>
+      <link>https://ifranco.github.io/project/i-garment/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/i-garment/</guid>
+      <description>&lt;p&gt;In 2007/2008 YDreams developed I-Garment, a smart garment for firefighters, equipped with GPS, vital signal monitoring, sensing of body position and alerts. The garment collects all this data in realtime and relays the information to an operational field vehicle via radio-frequency transmission.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/i-garment/igarment_schematic_hufbd4c1fc7fee4b1c6e78adb763a9626d_53843_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Data network of firefighting theater of operations.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/i-garment/igarment_schematic_hufbd4c1fc7fee4b1c6e78adb763a9626d_53843_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;914&#34; height=&#34;678&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Data network of firefighting theater of operations.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;With this system, the Civil Protection units can more accurately and effectively manage human resources in the field, assuring individual monitoring of every single firefighter&amp;rsquo;s position and health, even in harsh environments where cellphone infrastructures often fail.&lt;/p&gt;
+&lt;p&gt;Contractor: YDreams&lt;/p&gt;
+&lt;p&gt;Client: European Space Agency (ESA).&lt;/p&gt;
+&lt;p&gt;Partners: Miguel Rios Designer, Instituto de Telecomunicações, Proteção Civil Portugal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Audience Entertainment</title>
+      <link>https://ifranco.github.io/project/audience-entertainment/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/audience-entertainment/</guid>
+      <description>&lt;p&gt;In 2007 YDreams created an 
+&lt;a href=&#34;https://ifranco.github.io/project/augmented-reality/&#34;&gt;augmented reality&lt;/a&gt;
+
+ad for the Dove soap brand that allowed moviegoers to play with bubbles on the big screen.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/audience-entertainment/2007-dove_hu64c3d98f7b1f1a8f062ad86faacd25eb_828340_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Dove&amp;rsquo;s interactive ad in the cinema.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/audience-entertainment/2007-dove_hu64c3d98f7b1f1a8f062ad86faacd25eb_828340_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2203&#34; height=&#34;1652&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Dove&amp;rsquo;s interactive ad in the cinema.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Dove&amp;rsquo;s ad attracted the interest of several investors and partners, so we created Audience Entertainment, a spinoff dedicated to large-scale multi-user interaction with screens.&lt;/p&gt;
+&lt;p&gt;Audience Entertainment went on to work on several high-profile projects, such as the Orange Festival of Lights in , where 20,000 people collaboratively played a game on a giant screen.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/audience-entertainment/2009-orange_huda4624b522a5953b6ed9b9c5c66244e6_826254_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Orange Mobile Festival of Lights 2009: 20,000 people collaboratively playing a game on the same giant screen.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/audience-entertainment/2009-orange_huda4624b522a5953b6ed9b9c5c66244e6_826254_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1019&#34; height=&#34;764&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Orange Mobile Festival of Lights 2009: 20,000 people collaboratively playing a game on the same giant screen.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Audience Entertainment also won the 2014 Event Technology Award for their tech demo at SXSW 2014.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/audience-entertainment/2014-event-technology-awards_hu487f37b9013bf693018e79f0d7eb24fc_77845_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;The 2014 Event Technology Award.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/audience-entertainment/2014-event-technology-awards_hu487f37b9013bf693018e79f0d7eb24fc_77845_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;960&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The 2014 Event Technology Award.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;showreel-2014&#34;&gt;Showreel 2014&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/97172184&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;h2 id=&#34;ae-on-techcrunch&#34;&gt;AE on Techcrunch:&lt;/h2&gt;
+&lt;div class=&#34;vdb_player vdb_5688f66de4b040e17d9912265688f5c1e4b0f2c97f395156&#34; vdb_params=&#34;m.refbcid=564f313b67b6231408bc51ee&amp;m.refpid=56fe546fe4b03fc2a069e4d1&#34;&gt;
+    &lt;script type=&#34;text/javascript&#34; src=&#34;//delivery.vidible.tv/jsonp/pid=5688f66de4b040e17d991226/vid=5536316fe4b0c533388a2526/5688f5c1e4b0f2c97f395156.js&#34;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;!-- https://techcrunch.com/2014/11/30/audience-entertainment-demo/ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality</title>
+      <link>https://ifranco.github.io/project/augmented-reality/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/augmented-reality/</guid>
+      <description>&lt;p&gt;Augmented Reality (AR) was a key area of research at YDreams. Since the beginning of the company we had a clear vision of the possibilities of AR, inspired by the early work of people like Steven Feiner and the experiments on synthetic image of our own co-founder Edmundo Nobre. In 2005 we were creating our first experiments on 3D projected AR, featuring space mapping to enable occlusions and shadow casting. We also dynamically mapped real objects, creating realtime physics models so they could interact with digital objects.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/augmented-reality/mascot_hu69c95b063c20aa25c5b1458b605f0acd_106517_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A virtual character strolling through our office.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/augmented-reality/mascot_hu69c95b063c20aa25c5b1458b605f0acd_106517_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;240&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A virtual character strolling through our office.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/augmented-reality/realsim_hu993745db4345f88f331c63a65cf1f247_163266_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Realsim: a real and a virtual car interacting on the same environment, with occlusions and collisions.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/augmented-reality/realsim_hu993745db4345f88f331c63a65cf1f247_163266_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;240&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Realsim: a real and a virtual car interacting on the same environment, with occlusions and collisions.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Later we started experimenting with human input interaction and the possibilities people becoming actors inside the AR simulation.
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/augmented-reality/antao_hu8a4b21424e77769aed0a684fd92af307_643520_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Our collaborator Antão Almada, playing with virtual water and bubbles.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/augmented-reality/antao_hu8a4b21424e77769aed0a684fd92af307_643520_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;480&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Our collaborator Antão Almada, playing with virtual water and bubbles.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Around 2008 we had built a product called virtual sightseeing, an AR kiosk that displayed a layer of information over the scenery of touristic attraction sites. This kiosk turned 360 degrees and contained a touch screen, motorized cameras with zoom/tilt and a GSM data connection.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/augmented-reality/vss_hu48afa7024e8ba1b33c8bff5219bf8efc_784223_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Virtual Sightseeing: an AR kiosk for touristic viewpoints.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/augmented-reality/vss_hu48afa7024e8ba1b33c8bff5219bf8efc_784223_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2197&#34; height=&#34;1648&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Virtual Sightseeing: an AR kiosk for touristic viewpoints.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In 2009 we were already established in a rising AR market, which allowed us to create several new products and collaborate with many companies around the world. Two of those partners were Canesta and Primesense, both Silicon Valley startups focused the development of depth sensing technologies. In partnership with these companies we created groundbreaking AR concept applications. With depth sensing, AR simulations could become much more accurate, opening the doors for much more complex and rewarding interactions. Both Canesta and Primesense were later bought by Microsoft to create the Kinect controller for the Xbox.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/augmented-reality/markerless-AR_hubaebc67c5ce3097cc378b078c5481c7d_663896_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Antão&amp;rsquo;s fine interaction with a green elastic blob.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/augmented-reality/markerless-AR_hubaebc67c5ce3097cc378b078c5481c7d_663896_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;720&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Antão&amp;rsquo;s fine interaction with a green elastic blob.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;These simulations led us to win the Auggies award of best AR application at the 2010 Augmented Reality Expo (now known as AWE), with juries such as Mark Billinghurst and scifi author Bruce Sterling.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/augmented-reality/are-2010_hu22bfc805187c8a1b786e4049052238b0_45478_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Receiving the ARE 2010 award in the name of the whole team.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/augmented-reality/are-2010_hu22bfc805187c8a1b786e4049052238b0_45478_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;948&#34; height=&#34;508&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Receiving the ARE 2010 award in the name of the whole team.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h1 id=&#34;patents&#34;&gt;Patents&lt;/h1&gt;
+&lt;p&gt;We are the inventors of three significant patents:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://patents.google.com/patent/US8405680B1/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;US8405680B1 - Various methods and apparatuses for achieving augmented reality.&lt;/a&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://patents.google.com/patent/US8624962B2/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;US8624962B2 -  Systems and methods for simulating three-dimensional virtual interactions from two-dimensional camera images.&lt;/a&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://patents.google.com/patent/US20120170800A1/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;US20120170800A1 -  Systems and methods for continuous physics simulation from discrete video acquisition.&lt;/a&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brand and Retail</title>
+      <link>https://ifranco.github.io/project/brand-retail/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/brand-retail/</guid>
+      <description>&lt;p&gt;In the mid 2000s, one of the most important business activities for YDreams was the creation of digital experiences for retail and brands. Many brick and mortars saw the value in developing more attractive shopping experiences, considering the rise of online sales giants like Amazon. Many brands also understood the need to appeal to a new generation of consumers, which could be accomplish through the showcase of innovation in showrooms and fair booths. YDreams now counts thousands of these projects for clients such as Nike, Disney, Coca-cola or Microsoft.&lt;/p&gt;
+&lt;h1 id=&#34;selected-cases&#34;&gt;Selected Cases&lt;/h1&gt;
+&lt;h2 id=&#34;vodafone-cube-2002&#34;&gt;Vodafone Cube (2002)&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/vodafone-cube-1_hu1f33911b518c6934576cc7d2bf2af53e_1100937_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/vodafone-cube-1_hu1f33911b518c6934576cc7d2bf2af53e_1100937_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2048&#34; height=&#34;1536&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+Located at Vodafone&amp;rsquo;s Lisbon headquarters, the Vodafone Cube was a large-scale interactive display with many games and applications controlled via mobile phone.
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/vodafone-cube-2_hu95e8d69dd1205f7a3a8a17af1fc7ea0c_77944_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/vodafone-cube-2_hu95e8d69dd1205f7a3a8a17af1fc7ea0c_77944_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;425&#34; height=&#34;566&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;adidas-eyeball-2005&#34;&gt;Adidas Eyeball (2005)&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/adidas-eyeball_hud462b2ac50a2537d007c2262e5b56f37_515233_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/adidas-eyeball_hud462b2ac50a2537d007c2262e5b56f37_515233_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1383&#34; height=&#34;1037&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+The Adidas Eyeballs were a series of large-scale interactive displays created for Adidas to promote the Euro Cup 2005. The Eyeball had a series of multi-user applications that ranged from interactive games to public voting. The interaction with the display was done through mobile phone or through a series of positional and motion detection sensors embedded on the structure.&lt;/p&gt;
+&lt;h2 id=&#34;hello-kitty-2007&#34;&gt;Hello Kitty (2007)&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/hello-kitty_hu4a7bf14c4f65eca51e5718cae4e07193_781392_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/hello-kitty_hu4a7bf14c4f65eca51e5718cae4e07193_781392_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2202&#34; height=&#34;1651&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+An interactive installation for Hello Kitty&amp;rsquo;s flagship store, where kids can use a lantern to interact with a digital coloring game.&lt;/p&gt;
+&lt;h2 id=&#34;coca-cola-kiss-puppies-2008&#34;&gt;Coca-Cola Kiss Puppies (2008)&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/coca-cola-kissy-puppies_hu26f94cda226e16f0ebc23ed4c1bdd2a8_350909_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/coca-cola-kissy-puppies_hu26f94cda226e16f0ebc23ed4c1bdd2a8_350909_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;910&#34; height=&#34;683&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+A large-scale augmented reality experience, where families are being chased by furry animals that want to kiss you.&lt;/p&gt;
+&lt;h2 id=&#34;interactive-shelves-2008&#34;&gt;Interactive Shelves (2008)&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/diageo-interactive-shelves_hu4f41ce383d5821bef631e7a7279a0808_890855_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/diageo-interactive-shelves_hu4f41ce383d5821bef631e7a7279a0808_890855_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2197&#34; height=&#34;1647&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+An add-on product shelf equipped with motion and height sensors. It provides audiovisual feedback about the product and locally logs consumer interaction data.&lt;/p&gt;
+&lt;h2 id=&#34;santanders-visitor-center-2009&#34;&gt;Santander&amp;rsquo;s Visitor Center (2009)&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/santander1_hu7c7176a7f36dfcceb4ef7d358eff4912_265271_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/santander1_hu7c7176a7f36dfcceb4ef7d358eff4912_265271_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;360&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+Santander contracted YDreams to create the most futuristic and unique interactive experiences for their visitor center at Ciudad Santander, one of the important corporate headquarters in the world.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/santander2_hubf0e5efa2aa30a0a4bdf5bb721a7372c_924295_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;The concierge robots that welcome new visitors and accompany them to their chosen destination.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/santander2_hubf0e5efa2aa30a0a4bdf5bb721a7372c_924295_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2201&#34; height=&#34;1651&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The concierge robots that welcome new visitors and accompany them to their chosen destination.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/santander3_hu413e89f3f458010bc8872f23bf2c5b98_681932_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;An augmented reality overlay on top of the architectural scale model of Ciudad Santander.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/santander3_hu413e89f3f458010bc8872f23bf2c5b98_681932_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2207&#34; height=&#34;1652&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    An augmented reality overlay on top of the architectural scale model of Ciudad Santander.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;nike-free-throw-experience-2011&#34;&gt;Nike Free Throw Experience (2011)&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/nike-free-throw_hu971dec6bc77cb7c444b9f65837c56242_676706_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/nike-free-throw_hu971dec6bc77cb7c444b9f65837c56242_676706_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;622&#34; height=&#34;467&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensing computer vision to allow the user to control the avatar via full-body interaction.&lt;/p&gt;
+&lt;h2 id=&#34;lego-virtual-aquarium-2012&#34;&gt;Lego Virtual Aquarium (2012)&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/lego-aquarium-1_hue93770a525ae157f4ec40a10fb2cc6f1_275973_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/lego-aquarium-1_hue93770a525ae157f4ec40a10fb2cc6f1_275973_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;360&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/lego-aquarium-2_hub5e9add905e0d45ec3c7b417e06b1dcf_204709_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/lego-aquarium-2_hub5e9add905e0d45ec3c7b417e06b1dcf_204709_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;360&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Interactive installation for youngsters, where they can create their own Lego fish an populate a virtual aquarium.&lt;/p&gt;
+&lt;h1 id=&#34;showreels&#34;&gt;Showreels&lt;/h1&gt;
+&lt;p&gt;Here are some showreels of our work over the years.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JYi57GMkjiY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/abuwWCjEErA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/V6vVeipmJR8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6RgSI7IEhBE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/WwSGy4NmRho&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1YLxK9vRroM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3aHpa-qyLvg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/M00qy2oSwa4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Website: &lt;a href=&#34;http://ydreamsglobal.com/&#34;&gt;http://ydreamsglobal.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Clients: Nike, Disney, Cisco, Audi, Bradesco, Coca-Cola, Adidas, C&amp;amp;A, Fiat, Petrobras, Microsoft.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Museums</title>
+      <link>https://ifranco.github.io/project/museums/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/museums/</guid>
+      <description>&lt;p&gt;In 2002 YDreams created several interactive installations for the &amp;ldquo;Engenho e Obra&amp;rdquo; science exhibition, displayed at the Cordoaria Nacional building in Lisbon. At the time this was probably the most technologically advanced exhibition ever done in Portugal. We debuted many of the novel physical interaction principles that would later be used in many YDreams products and services. The &amp;ldquo;Engenho e Obra&amp;rdquo; exhibition won the 2012 
+&lt;a href=&#34;https://www.historyoftechnology.org/about-us/awards-prizes-and-grants/the-dibner-award/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dibner award for Excellence in Museum Exhibits&lt;/a&gt;
+.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/museums/engenho-e-obra_hu155555a7694a3bd3454f22517d036d77_554157_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;One of Engenho e Obra&amp;rsquo;s installations: an interactive table with physical discs to simulate water pollutant dispersion.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/engenho-e-obra_hu155555a7694a3bd3454f22517d036d77_554157_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1000&#34; height=&#34;410&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    One of Engenho e Obra&amp;rsquo;s installations: an interactive table with physical discs to simulate water pollutant dispersion.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Since then YDreams designed many interactive exhibits for museums, including full interior design and implementation. Here are some examples:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2002-house-of-the-future-garden.jpg&#34; data-caption=&#34;Casa do Futuro (2002).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2002-house-of-the-future-garden_hu4185aaeb14890b22421d8cd23f7e66f6_2759566_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2004-braganza-interactive-science-center.jpg&#34; data-caption=&#34;Braganza Science Center (2004).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2004-braganza-interactive-science-center_hud1add2e160e163e8a63e0181ff2e8068_503715_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2007-egf.jpg&#34; data-caption=&#34;EGF Roadshow (2007).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2007-egf_hu3b329fd5fe1f1cafde2d5f01da7467da_584836_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2008-museum-of-discoveries.jpg&#34; data-caption=&#34;Museum of Discoveries (2008).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2008-museum-of-discoveries_hu7ee3dabadb9345ae8344abcf603edb07_882397_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2009-environmental-center-of-castelo-branco.jpg&#34; data-caption=&#34;Environmental Center of Castelo Branco (2009).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2009-environmental-center-of-castelo-branco_hu053fc32ead1eeb1268158a39c775c6c1_887173_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2010-btek.jpg&#34; data-caption=&#34;BTEK Technology Interpretation Center (2010).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2010-btek_huc344b8243dd7fad244cd94bfba1ac06f_1011825_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2010-family-blue-park.jpg&#34; data-caption=&#34;Family Blue Park (2010).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2010-family-blue-park_hu59e9d4c65b1a70dfc5883f08a1ee7314_783374_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2011-blau-museum.jpg&#34; data-caption=&#34;Natural Science Museum Blau (2011).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2011-blau-museum_hu32da8ebc81383700b8f545e352a0de82_796732_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2012-jewish-museum.jpg&#34; data-caption=&#34;JEWISH MUSEUM &amp;amp;amp; TOLERANCE CENTER (2012).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2012-jewish-museum_hubca3becea2713ccd897511c9e9140355_798242_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2012-quartz-museum.jpg&#34; data-caption=&#34;Quartz Museum (2012).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2012-quartz-museum_hu868c972bbba5b0809d7bd3b9374e3b8e_542653_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
