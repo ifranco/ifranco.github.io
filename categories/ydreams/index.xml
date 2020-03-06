@@ -261,50 +261,6 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
     </item>
     
     <item>
-      <title>Airstick</title>
-      <link>https://ifranco.github.io/project/airstick/</link>
-      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
-      <guid>https://ifranco.github.io/project/airstick/</guid>
-      <description>&lt;p&gt;The growing computation power allowed musicians to start considering instrumentation in live computer music. The typical computer interfaces proved to be poor for this new “instrumental” quality, resulting in the development of new physical interfaces. These interfaces tend to be fully customized and only limited by one’s creativity.&lt;/p&gt;
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/airstick/airstick_sideways_hu82d6ab74519390a1f826607a012b1216_28519_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://ifranco.github.io/project/airstick/airstick_sideways_hu82d6ab74519390a1f826607a012b1216_28519_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;300&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;Some of these controllers are based on gesture mapping: music controllers that respond to body articulations performed “in the air”, without any physical contact between a player and the instrument’s body. AirStick is played “in the air”, in a Theremin style. It is composed of an array of infrared proximity sensors, which allow the mapping of the position of any interfering obstacle inside a bi-dimensional zone. This controller sends both x and y control data to various real-time synthesis algorithms.&lt;/p&gt;
-&lt;p&gt;The Airstick was first presented in the 
-&lt;a href=&#34;https://www.nime.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIME 2005 Conference&lt;/a&gt;
-.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Augmented Reality</title>
       <link>https://ifranco.github.io/project/augmented-reality/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>

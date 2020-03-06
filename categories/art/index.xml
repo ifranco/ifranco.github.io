@@ -162,16 +162,14 @@
     </item>
     
     <item>
-      <title>Strings of Thought 2</title>
-      <link>https://ifranco.github.io/project/strings-of-thought-2/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://ifranco.github.io/project/strings-of-thought-2/</guid>
-      <description>&lt;p&gt;A woman sits on a chair and from her head several strings emerge to form a network structure like dendritic trees of neurons. These cells generate electric signals based on potential voltage and the reaction to outside stimuli.&lt;/p&gt;
-&lt;p&gt;Strings of Thought 2 is an interactive installation that invites interaction with a performer through a wearable meta-instrument to create a collaborative soundscape. An hybrid of music, performance and installation, depicting the process of human mental activity and its decomposition into the simple synaptic events of the brain.&lt;/p&gt;
-&lt;p&gt;The audience enters a room to find a woman sitting on a chair. From her hair several strings protrude and connect to piezoelectric sensors. The plucking of the strings generates voltage spikes on the sensor array that sends these electrical pulses to the computer, while a program written in Supercollider reinterprets this data and shapes it into sonic structures. This process resembles its biological counterpart at the neural level.&lt;/p&gt;
-&lt;p&gt;The result is a peek into the soul of this lady character, as the audience is invited to play the instrument and create a soundscape composed of music and also the inner voices of this woman’s reasoning. Through this digital aesthetic artists Ivan Franco and Lígia Teixeira explore the recreation of the process of neural transmission in the brain and how this biological process evolves into the complexity of consciousness.&lt;/p&gt;
-&lt;h3 id=&#34;strings-of-thought-2--harvestworksny-2013&#34;&gt;Strings of Thought 2 @ Harvestworks(NY 2013)&lt;/h3&gt;
-&lt;!-- 
+      <title>The Mitt</title>
+      <link>https://ifranco.github.io/project/the-mitt/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/the-mitt/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The Mitt&amp;rdquo; is a digital synthesizer that explores the fine motor skills of the human hand and the performative aspects of micro gestures. Its tangible interface is constituted by an array of five channels, each composed of an extremely accurate thumb joystick, potentiometers and buttons. The layout follows the morphology of the hand, with each finger resting on top of one joystick, providing extreme gestural amplification of the hand where small movements can have significant impact.&lt;/p&gt;
+&lt;p&gt;We chose to explore the ambient and drone style through a 5-channel granular synthesis. Sounds can be freely assigned to each channel and joysticks are mapped to amplitude and sample read position, requiring continuous energy input from the player to reach morphing sustaining sounds.&lt;/p&gt;
+&lt;p&gt;In turn the potentiometers control grain density, pitch and gain. Interesting performative behaviors emerge from the mechanical and physiological constraints implicit by the design and through gestures like opening, closing, translating or rotating.&lt;/p&gt;
+
 
 
 
@@ -194,12 +192,8 @@
     
     
     
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings1.png&#34; &gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings1_hubdf01072093ceb57d3a137be70742a2c_493982_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/the-mitt/gallery/mitt1.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/the-mitt/gallery/mitt1_hu2d1dbe3cabfbd69e4ab916945a618bb2_1218149_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -207,12 +201,8 @@
     
     
     
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings2.png&#34; &gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings2_hu22c9a430b12b6babfee7d9fec1c3fa92_489286_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/the-mitt/gallery/mitt2.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/the-mitt/gallery/mitt2_hu8225949a5df5cde5aac02d80ba772bb9_990170_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -220,12 +210,8 @@
     
     
     
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings3.png&#34; &gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings3_hu14deedbce39b8ad18adbe77e4145df88_542201_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/the-mitt/gallery/mitt3.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/the-mitt/gallery/mitt3_hu35aef20b406890af367e9ce044356bea_1145587_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -233,12 +219,8 @@
     
     
     
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings4.png&#34; &gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings4_hu567caaca44b61e570ffb2299cf6dba36_564751_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/the-mitt/gallery/mitt4.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/the-mitt/gallery/mitt4_hu24c5ef58673ba7609285dcd4505aa7a3_993881_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -246,12 +228,8 @@
     
     
     
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings5.png&#34; &gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings5_hu08b47d270e20aa5f3a0811b949d9945c_532664_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/the-mitt/gallery/mitt5.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/the-mitt/gallery/mitt5_hu3892dd244fc9bd39e967b5d86c0ad6bc_2856979_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -259,43 +237,36 @@
     
     
     
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings6.png&#34; &gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings6_hu8a213c27ea43bacf840328a022340714_497648_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings7.png&#34; &gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings7_hufc37062ba084482eebab7b91676988cd_568443_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings8.png&#34; &gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings8_hub9eb76a52ebc1909b82c156c361ef31c_501047_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/the-mitt/gallery/mitt6.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/the-mitt/gallery/mitt6_hu923bb82839e224308732567bbbe965f8_3229791_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
   
-&lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Oj7HfcdJhi8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Strings of Thought 2</title>
+      <link>https://ifranco.github.io/project/strings-of-thought-2/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/strings-of-thought-2/</guid>
+      <description>&lt;p&gt;A woman sits on a chair and from her head several strings emerge to form a network structure like dendritic trees of neurons. These cells generate electric signals based on potential voltage and the reaction to outside stimuli.&lt;/p&gt;
+&lt;p&gt;Strings of Thought 2 is an interactive installation that invites interaction with a performer through a wearable meta-instrument to create a collaborative soundscape. An hybrid of music, performance and installation, depicting the process of human mental activity and its decomposition into the simple synaptic events of the brain.&lt;/p&gt;
+&lt;p&gt;The audience enters a room to find a woman sitting on a chair. From her hair several strings protrude and connect to piezoelectric sensors. The plucking of the strings generates voltage spikes on the sensor array that sends these electrical pulses to the computer, while a program written in Supercollider reinterprets this data and shapes it into sonic structures. This process resembles its biological counterpart at the neural level.&lt;/p&gt;
+&lt;p&gt;The result is a peek into the soul of this lady character, as the audience is invited to play the instrument and create a soundscape composed of music and also the inner voices of this woman’s reasoning. Through this digital aesthetic artists Ivan Franco and Lígia Teixeira explore the recreation of the process of neural transmission in the brain and how this biological process evolves into the complexity of consciousness.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/CL26X5Fvtgw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;strings-of-thought-2--harvestworksny-2013&#34;&gt;Strings of Thought 2 @ Harvestworks(NY 2013)&lt;/h3&gt;
 
 
 
@@ -626,6 +597,11 @@
 &lt;p&gt;Technically the telematic experience is accomplished by using two synchronized projections of the man on the bed, captured in realtime in an alternate room, where the dancer is filmed. He also has reference video monitors, which allow him to see the stage action. The woman is inside a full water tank, placed over the bed, where the two projections (vertical and horizontal) are applied on the bed’s surface and on the back face of the aquarium. Image projection over the tank’s translucent surface is possible by using a special transparent film, which induces the illusion of a holographic video image.&lt;/p&gt;
 &lt;p&gt;The feminine character is also confronted with a third space: the outside world. It reveals the harsh confrontation with the “concréte” quotidian, a world apart from the room, the dream’s private space, able to induce the illusion for the imaginary lover. The traveling between these two worlds is symbolized by a lamp, switched on and off by the dancer, transporting her from one world to the other.&lt;/p&gt;
 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/6264626&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
 
 
 
@@ -734,6 +710,50 @@
 &lt;p&gt;Technical Assistance: Coias&lt;/p&gt;
 &lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
 &lt;p&gt;Centro Cultural de Belém&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Airstick</title>
+      <link>https://ifranco.github.io/project/airstick/</link>
+      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/airstick/</guid>
+      <description>&lt;p&gt;The growing computation power allowed musicians to start considering instrumentation in live computer music. The typical computer interfaces proved to be poor for this new “instrumental” quality, resulting in the development of new physical interfaces. These interfaces tend to be fully customized and only limited by one’s creativity.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/airstick/airstick_sideways_hu82d6ab74519390a1f826607a012b1216_28519_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/airstick/airstick_sideways_hu82d6ab74519390a1f826607a012b1216_28519_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;300&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Some of these controllers are based on gesture mapping: music controllers that respond to body articulations performed “in the air”, without any physical contact between a player and the instrument’s body. AirStick is played “in the air”, in a Theremin style. It is composed of an array of infrared proximity sensors, which allow the mapping of the position of any interfering obstacle inside a bi-dimensional zone. This controller sends both x and y control data to various real-time synthesis algorithms.&lt;/p&gt;
+&lt;p&gt;The Airstick was first presented in the 
+&lt;a href=&#34;https://www.nime.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIME 2005 Conference&lt;/a&gt;
+.&lt;/p&gt;
 </description>
     </item>
     
