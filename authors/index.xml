@@ -2,32 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Ivan Franco</title>
-    <link>https://ifranco.github.io/authors/</link>
-      <atom:link href="https://ifranco.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Authors</title>
-      <link>https://ifranco.github.io/authors/</link>
+      <link>/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://ifranco.github.io/authors/ivan-franco/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://ifranco.github.io/authors/ivan-franco/</guid>
-      <description>&lt;p&gt;Ivan Franco is passionate about interaction design. He is a recognized thought-leader in areas such as human-computer interaction, XR and tangible interfaces. With 10+ years of experience in the research, development and strategic management of interactive products and technologies, he has worked with clients and partners such as Microsoft, Dell, ESA and Philips. His other passion is music technology, having recently completed his PhD at McGill University.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ifranco.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ifranco.github.io/authors/admin/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

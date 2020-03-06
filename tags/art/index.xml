@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>art | Ivan Franco</title>
-    <link>https://ifranco.github.io/tags/art/</link>
-      <atom:link href="https://ifranco.github.io/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/art/</link>
+      <atom:link href="/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <description>art</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>art</title>
-      <link>https://ifranco.github.io/tags/art/</link>
+      <link>/tags/art/</link>
     </image>
     
     <item>
       <title>Haptic Field</title>
-      <link>https://ifranco.github.io/project/haptic-field/</link>
+      <link>/project/haptic-field/</link>
       <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://ifranco.github.io/project/haptic-field/</guid>
+      <guid>/project/haptic-field/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prynth</title>
-      <link>https://ifranco.github.io/project/prynth/</link>
+      <link>/project/prynth/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://ifranco.github.io/project/prynth/</guid>
+      <guid>/project/prynth/</guid>
       <description>&lt;p&gt;Prynth are programmable sound synthesizers powered by single-board computers. They combine the advantages of dedicated hardware with the flexibility of programming.&lt;/p&gt;
 &lt;p&gt;This project&amp;rsquo;s goal is to develop a set of free technologies and guides for instrument assembly, while fostering knowledge exchange and discussion between creators.&lt;/p&gt;
 &lt;p&gt;For more information visit the 
@@ -59,8 +59,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/control_rpi.jpg&#34; data-caption=&#34;Prynth&amp;amp;rsquo;s base hardware system.&#34;&gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/control_rpi_hu75b438d50cc80c55d80a4c4e6f8bff49_632359_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/control_rpi.jpg&#34; data-caption=&#34;Prynth&amp;amp;rsquo;s base hardware system.&#34;&gt;
+  &lt;img data-src=&#34;/project/prynth/gallery/control_rpi_hu75b438d50cc80c55d80a4c4e6f8bff49_632359_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -72,8 +72,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/mitt_composition.png&#34; data-caption=&#34;The Mitt, my own instrument.&#34;&gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/mitt_composition_hud47a73a396af7447fd38496d5c6f9504_33233483_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/mitt_composition.png&#34; data-caption=&#34;The Mitt, my own instrument.&#34;&gt;
+  &lt;img data-src=&#34;/project/prynth/gallery/mitt_composition_hud47a73a396af7447fd38496d5c6f9504_33233483_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -85,8 +85,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox3.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox3_hu1ef4a4afe9caffe5e78077dd4e9d7047_945428_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/noisebox3.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
+  &lt;img data-src=&#34;/project/prynth/gallery/noisebox3_hu1ef4a4afe9caffe5e78077dd4e9d7047_945428_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -98,8 +98,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox4.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox4_hu1be48b288e9fc5ee91e7a968a03f492e_649921_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;126&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/noisebox4.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
+  &lt;img data-src=&#34;/project/prynth/gallery/noisebox4_hu1be48b288e9fc5ee91e7a968a03f492e_649921_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;126&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -111,8 +111,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/rr1.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/rr1_huc797396d9f3d6b910be8d805291db43d_159941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/rr1.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
+  &lt;img data-src=&#34;/project/prynth/gallery/rr1_huc797396d9f3d6b910be8d805291db43d_159941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -124,8 +124,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/rr3.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/rr3_hu48b0e80ee95aa58f48c045794e35b51a_205156_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/rr3.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
+  &lt;img data-src=&#34;/project/prynth/gallery/rr3_hu48b0e80ee95aa58f48c045794e35b51a_205156_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -137,8 +137,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard1.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard1_hu5d2f68952d89739b943829766d849621_100546_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/soundboard1.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
+  &lt;img data-src=&#34;/project/prynth/gallery/soundboard1_hu5d2f68952d89739b943829766d849621_100546_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -150,8 +150,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard2.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
-  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard2_hub11a01f88290f86b3b46a3200c14cf57_356078_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/soundboard2.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
+  &lt;img data-src=&#34;/project/prynth/gallery/soundboard2_hub11a01f88290f86b3b46a3200c14cf57_356078_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -171,10 +171,73 @@
     
     <item>
       <title>Ilinx</title>
-      <link>https://ifranco.github.io/project/ilinx/</link>
+      <link>/project/ilinx/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://ifranco.github.io/project/ilinx/</guid>
+      <guid>/project/ilinx/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Strings of Thought</title>
+      <link>/project/strings-of-thought/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/project/strings-of-thought/</guid>
+      <description>&lt;p&gt;STRINGS OF THOUGHT is a contemporary dance piece that uses digital media as part of an interactive scenography. Conceptually, the project intends to evoke human self-reflection and its consequence on the decision-making process. This introspection also questions the duality of who we are and who we wish to be.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/strings-of-thought/strings_hu706ebd9cbf780653c64ec1c85f812bb4_152257_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/strings-of-thought/strings_hu706ebd9cbf780653c64ec1c85f812bb4_152257_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;533&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the performance, this argumentation is materialized through a scenic setup of suspended cables attached to various points of the dancer&amp;rsquo;s body. They represent the abstractions of our personal dogmas, conditioning movement and dexterity. This group of cables presents interesting physical responses, since they can both retract or extend. They also have a braking system, so that acceleration over a certain threshold will block the performers movement. Furthermore a set of electronic sensors were installed, granting the ability to digitally monitor several properties of the cable and thus dynamically generate sound and light, through the connection to interactive digital systems. These interactive systems are comprised of custom electronics and computer programs that were specially created to operate in realtime, allowing the choreography to become a motor for all the music and stage effects.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/49363337&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;h3 id=&#34;official-info&#34;&gt;Official info&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.milliways.pt/productions/strings.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Milliways&lt;/a&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+&lt;p&gt;Artistic direction: Ivan Franco and Lígia Teixeira&lt;/p&gt;
+&lt;p&gt;Choreography, Dance: Lígia Teixeira&lt;/p&gt;
+&lt;p&gt;Music, Sound design: Ivan Franco&lt;/p&gt;
+&lt;p&gt;Lighting design: David Palma, Danny Green&lt;/p&gt;
+&lt;p&gt;Original text, Voice over: Liza Wade Green&lt;/p&gt;
+&lt;p&gt;Artistic advisory: David Grubbs /PIMA MFA&lt;/p&gt;
+&lt;p&gt;Technical system supervision: António Caetano Monteiro, Pedro Branco, Nelson Zagalo, Minho University&lt;/p&gt;
+&lt;p&gt;Interactive and Technical system construction: António Caetano Monteiro, Pedro Ramôa, Vítor Faria, Vítor Neto (UM Mechanics Department) and Ivan Franco.&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;A MILLIWAYS co-production with Guimarães 2012 European Capital of Culture.&lt;/p&gt;
+&lt;p&gt;In partnership with 3LD Art + Technology Center and Minho University.&lt;/p&gt;
+&lt;p&gt;This project was financed by the Portuguese State Secretary of Culture / DGArtes.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
