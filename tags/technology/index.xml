@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>technology | Ivan Franco</title>
-    <link>/tags/technology/</link>
-      <atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ifranco.github.io/tags/technology/</link>
+      <atom:link href="https://ifranco.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <description>technology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>technology</title>
-      <link>/tags/technology/</link>
+      <link>https://ifranco.github.io/tags/technology/</link>
     </image>
     
     <item>
       <title>Prynth</title>
-      <link>/project/prynth/</link>
+      <link>https://ifranco.github.io/project/prynth/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/project/prynth/</guid>
+      <guid>https://ifranco.github.io/project/prynth/</guid>
       <description>&lt;p&gt;Prynth are programmable sound synthesizers powered by single-board computers. They combine the advantages of dedicated hardware with the flexibility of programming.&lt;/p&gt;
 &lt;p&gt;This project&amp;rsquo;s goal is to develop a set of free technologies and guides for instrument assembly, while fostering knowledge exchange and discussion between creators.&lt;/p&gt;
 &lt;p&gt;For more information visit the 
@@ -51,8 +51,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/control_rpi.jpg&#34; data-caption=&#34;Prynth&amp;amp;rsquo;s base hardware system.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/control_rpi_hu75b438d50cc80c55d80a4c4e6f8bff49_632359_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/control_rpi.jpg&#34; data-caption=&#34;Prynth&amp;amp;rsquo;s base hardware system.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/control_rpi_hu75b438d50cc80c55d80a4c4e6f8bff49_632359_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -64,8 +64,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/mitt_composition.png&#34; data-caption=&#34;The Mitt, my own instrument.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/mitt_composition_hud47a73a396af7447fd38496d5c6f9504_33233483_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/mitt_composition.png&#34; data-caption=&#34;The Mitt, my own instrument.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/mitt_composition_hud47a73a396af7447fd38496d5c6f9504_33233483_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -77,8 +77,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/noisebox3.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/noisebox3_hu1ef4a4afe9caffe5e78077dd4e9d7047_945428_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox3.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox3_hu1ef4a4afe9caffe5e78077dd4e9d7047_945428_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -90,8 +90,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/noisebox4.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/noisebox4_hu1be48b288e9fc5ee91e7a968a03f492e_649921_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;126&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox4.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox4_hu1be48b288e9fc5ee91e7a968a03f492e_649921_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;126&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -103,8 +103,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/rr1.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/rr1_huc797396d9f3d6b910be8d805291db43d_159941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/rr1.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/rr1_huc797396d9f3d6b910be8d805291db43d_159941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -116,8 +116,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/rr3.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/rr3_hu48b0e80ee95aa58f48c045794e35b51a_205156_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/rr3.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/rr3_hu48b0e80ee95aa58f48c045794e35b51a_205156_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -129,8 +129,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/soundboard1.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/soundboard1_hu5d2f68952d89739b943829766d849621_100546_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard1.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard1_hu5d2f68952d89739b943829766d849621_100546_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -142,8 +142,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/soundboard2.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/soundboard2_hub11a01f88290f86b3b46a3200c14cf57_356078_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard2.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard2_hub11a01f88290f86b3b46a3200c14cf57_356078_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -163,9 +163,9 @@
     
     <item>
       <title>Vibropixels</title>
-      <link>/project/vibropixels/</link>
+      <link>https://ifranco.github.io/project/vibropixels/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/project/vibropixels/</guid>
+      <guid>https://ifranco.github.io/project/vibropixels/</guid>
       <description>&lt;p&gt;The Vibropixels are self-contained haptic devices, composed of two vibrotactile actuators, four RGB LEDs and a battery. They can be used to create haptic feedback systems for wearables or other interactive devices. The Vibropixels can be controlled individually or by the hundreds, which makes them useful for interactive works with many users or the creation of high-density tactile displays.&lt;/p&gt;
 &lt;p&gt;The Vibropixels were used in Haptic Fields by Chris Salter and Tez.&lt;/p&gt;
 
@@ -189,10 +189,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/vibropixels/VPs_manufacture_huf8690bd31b26794d34b9cd6d5b8623f0_56891_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;140 Vibropixels, manufactured for the Haptic Fields interactive installation (photo by Ian Hattwick).&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/vibropixels/VPs_manufacture_huf8690bd31b26794d34b9cd6d5b8623f0_56891_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;140 Vibropixels, manufactured for the Haptic Fields interactive installation (photo by Ian Hattwick).&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/vibropixels/VPs_manufacture_huf8690bd31b26794d34b9cd6d5b8623f0_56891_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;300&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/vibropixels/VPs_manufacture_huf8690bd31b26794d34b9cd6d5b8623f0_56891_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;300&#34;&gt;
 &lt;/a&gt;
 
 

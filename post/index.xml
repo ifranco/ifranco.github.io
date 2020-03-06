@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Ivan Franco</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ifranco.github.io/post/</link>
+      <atom:link href="https://ifranco.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://ifranco.github.io/post/</link>
     </image>
     
     <item>
       <title>Guthman  Competition 2017</title>
-      <link>/post/guthman-competition-2017/</link>
+      <link>https://ifranco.github.io/post/guthman-competition-2017/</link>
       <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/post/guthman-competition-2017/</guid>
+      <guid>https://ifranco.github.io/post/guthman-competition-2017/</guid>
       <description>&lt;p&gt;The Mitt is being presented at the 
 &lt;a href=&#34;http://guthman.gatech.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guthman Competition&lt;/a&gt;
 , happening this week at Georgia Tech&amp;rsquo;s Ferst Center. &amp;ldquo;Georgia Tech&amp;rsquo;s Guthman Musical Instrument Competition is an annual event aimed at identifying the world&amp;rsquo;s next generation of musical instruments. Every year the competition serves as a showcase for unveiling the best new ideas in musicality, design, and engineering.&amp;rdquo;&lt;/p&gt;
@@ -26,11 +26,11 @@
     
     <item>
       <title>ILinx at CTM Festival 2015</title>
-      <link>/post/ilinx-at-ctm-festival-2015/</link>
+      <link>https://ifranco.github.io/post/ilinx-at-ctm-festival-2015/</link>
       <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/post/ilinx-at-ctm-festival-2015/</guid>
+      <guid>https://ifranco.github.io/post/ilinx-at-ctm-festival-2015/</guid>
       <description>&lt;p&gt;
-&lt;a href=&#34;/project/ilinx/&#34;&gt;ILinx&lt;/a&gt;
+&lt;a href=&#34;https://ifranco.github.io/project/ilinx/&#34;&gt;ILinx&lt;/a&gt;
  will be presented at the CTM Festival next week in Berlin. This is a project I&amp;rsquo;ve done in collaboration with Chris Salter, Tez and Valerie Lamontagne. Tickets are also sold separately and needs to be scheduled in advance.&lt;/p&gt;
 &lt;p&gt;More information about CTM: &lt;a href=&#34;http://www.ctm-festival.de/festival-2015/transfer/ilinx/&#34;&gt;http://www.ctm-festival.de/festival-2015/transfer/ilinx/&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -38,9 +38,9 @@
     
     <item>
       <title>Strings of Thought #2 premiered at Harvestworks</title>
-      <link>/post/strings-of-thought-2-premiered-at-harvestworks/</link>
+      <link>https://ifranco.github.io/post/strings-of-thought-2-premiered-at-harvestworks/</link>
       <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>/post/strings-of-thought-2-premiered-at-harvestworks/</guid>
+      <guid>https://ifranco.github.io/post/strings-of-thought-2-premiered-at-harvestworks/</guid>
       <description>&lt;p&gt;A woman sits on a chair and from her head several strings emerge to form a network structure like dendritic trees of neurons. These cells generate electric signals based on potential voltage and the reaction to outside stimuli. Strings of Thought 2 is an interactive installation that invites the audience to explore and play with a musical meta-instrument and collaboratively create an intricate soundscape.&lt;/p&gt;
 &lt;p&gt;Strings of Thought 2 was premiered at 
 &lt;a href=&#34;http://www.harvestworks.org/&#34; title=&#34;Harvestworks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvestworks&lt;/a&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Contact</title>
-      <link>/post/contact/</link>
+      <link>https://ifranco.github.io/post/contact/</link>
       <pubDate>Tue, 14 May 2013 00:00:00 +0000</pubDate>
-      <guid>/post/contact/</guid>
+      <guid>https://ifranco.github.io/post/contact/</guid>
       <description>&lt;p&gt;Contact is both an interactive installation and a performance of electronic music. The set is composed of several instruments that are first played by Ivan Franco, but later offered to the audience, inviting participation and collaboration in the musical event. These meta-instruments are connected to a central software that ensures that all the components are driven together by a central hub, thus creating a coherent musical output.&lt;/p&gt;
 &lt;p&gt;In &amp;ldquo;Close Encounters of the Third Kind&amp;rdquo;, Steven Spielberg explores the idea of music patterns as a means to communicate with alien life. The two species are bound by the simplification of language into the common traits of musical scales and the ability to understand harmony.&lt;/p&gt;
 &lt;p&gt;The goal in this piece is to challenge the spectator to be a part of the musical experimentation, by breaking formal stage boundaries and bringing the audience into the performative space. This chance to be first hand participants in the sonic experience yields interesting results in the exploration of sensibility to sound creation and to &amp;ldquo;music as language&amp;rdquo;.&lt;/p&gt;
@@ -79,10 +79,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/contact/contact1_hu3b08b4592ca1354609dfb2ea8a89c9f2_56424_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/post/contact/contact1_hu3b08b4592ca1354609dfb2ea8a89c9f2_56424_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/post/contact/contact1_hu3b08b4592ca1354609dfb2ea8a89c9f2_56424_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;720&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/post/contact/contact1_hu3b08b4592ca1354609dfb2ea8a89c9f2_56424_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;720&#34;&gt;
 &lt;/a&gt;
 
 
@@ -110,10 +110,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/contact/contact2_hu8fa8d78a0d7eb97b13542bf02fc609c9_40057_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/post/contact/contact2_hu8fa8d78a0d7eb97b13542bf02fc609c9_40057_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/post/contact/contact2_hu8fa8d78a0d7eb97b13542bf02fc609c9_40057_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;720&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/post/contact/contact2_hu8fa8d78a0d7eb97b13542bf02fc609c9_40057_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;720&#34;&gt;
 &lt;/a&gt;
 
 
@@ -141,10 +141,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/contact/contact3_hu460cf71337048856dbcfb22adcb8c376_46015_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/post/contact/contact3_hu460cf71337048856dbcfb22adcb8c376_46015_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/post/contact/contact3_hu460cf71337048856dbcfb22adcb8c376_46015_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;720&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/post/contact/contact3_hu460cf71337048856dbcfb22adcb8c376_46015_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;720&#34;&gt;
 &lt;/a&gt;
 
 
@@ -172,10 +172,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/contact/contact4_hu19fd8861d77bc7d0df3264d8a5861309_75874_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/post/contact/contact4_hu19fd8861d77bc7d0df3264d8a5861309_75874_2000x2000_fit_q90_lanczos.jpeg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/post/contact/contact4_hu19fd8861d77bc7d0df3264d8a5861309_75874_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;720&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/post/contact/contact4_hu19fd8861d77bc7d0df3264d8a5861309_75874_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;720&#34;&gt;
 &lt;/a&gt;
 
 
@@ -187,9 +187,9 @@
     
     <item>
       <title>Ivan Franco live @ Knitting Factory 2012</title>
-      <link>/post/ivan-franco-live-knitting-factory-2012/</link>
+      <link>https://ifranco.github.io/post/ivan-franco-live-knitting-factory-2012/</link>
       <pubDate>Mon, 22 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>/post/ivan-franco-live-knitting-factory-2012/</guid>
+      <guid>https://ifranco.github.io/post/ivan-franco-live-knitting-factory-2012/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/oqqjMNY4cvc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -200,9 +200,9 @@
     
     <item>
       <title>Strings of Thought - new creation by Ivan Franco and Lígia Teixeira</title>
-      <link>/post/strings-of-thought-new-creation-by-ivan-franco-and-ligia-teixeira/</link>
+      <link>https://ifranco.github.io/post/strings-of-thought-new-creation-by-ivan-franco-and-ligia-teixeira/</link>
       <pubDate>Tue, 12 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/post/strings-of-thought-new-creation-by-ivan-franco-and-ligia-teixeira/</guid>
+      <guid>https://ifranco.github.io/post/strings-of-thought-new-creation-by-ivan-franco-and-ligia-teixeira/</guid>
       <description>&lt;p&gt;During the last year I&amp;rsquo;ve been creating a new dance piece with Lígia Teixeira. Strings of Thought is being developed to be premiered at Guimarães 2012 - European Capital of Culture, and will be performed from the 11-13th July. &lt;/p&gt;
 &lt;p&gt;This piece is evocative of the confrontation between our desires and the reality of who we are.&lt;br&gt;
 It is materialized through a fantastic setup of cable suspensions, which interactively create sound and light for the dance piece.&lt;/p&gt;
@@ -216,9 +216,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Live @ In/Out Fest - Knitting Factory (Brooklyn) - November 12th</title>
-      <link>/post/live-inout-fest-knitting-factory-brooklyn-november-12th/</link>
+      <link>https://ifranco.github.io/post/live-inout-fest-knitting-factory-brooklyn-november-12th/</link>
       <pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>/post/live-inout-fest-knitting-factory-brooklyn-november-12th/</guid>
+      <guid>https://ifranco.github.io/post/live-inout-fest-knitting-factory-brooklyn-november-12th/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ll be playing at the In/Out Fest next Saturday. The concert will take place at the Knitting Factory in Brooklyn, but be sure to also check the workshops held at Death by Audio.&lt;/p&gt;
 &lt;p&gt;The lineup for the 12th is: Super Mario Brothers / Island Dweller / Ivan Franco / Figure Zero / Smomid / Portable Sunsets/ Christopher Willits / Bit Shifter&lt;/p&gt;
 &lt;p&gt;
@@ -231,9 +231,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Ivan Franco @ Moita Mostra 2011</title>
-      <link>/post/ivan-franco-moita-mostra-2011/</link>
+      <link>https://ifranco.github.io/post/ivan-franco-moita-mostra-2011/</link>
       <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>/post/ivan-franco-moita-mostra-2011/</guid>
+      <guid>https://ifranco.github.io/post/ivan-franco-moita-mostra-2011/</guid>
       <description>&lt;p&gt;An excerpt of my musical improvisation at Moita Mostra Festival. This is a new setup that incorporates an Ipad, which I have been exploring the past month and find very satisfying in terms of playability and precision.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -246,9 +246,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Max Mathews</title>
-      <link>/post/max-mathews/</link>
+      <link>https://ifranco.github.io/post/max-mathews/</link>
       <pubDate>Fri, 22 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>/post/max-mathews/</guid>
+      <guid>https://ifranco.github.io/post/max-mathews/</guid>
       <description>&lt;p&gt;We were all very sad to learn that Max Mathews just passed away today at age 84. For many Mathews was considered the father of computer music.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -270,9 +270,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Ivan Franco and Maria Radich @ Arthobler 2010 - the video</title>
-      <link>/post/ivan-franco-and-maria-radich-arthobler-2010-the-video/</link>
+      <link>https://ifranco.github.io/post/ivan-franco-and-maria-radich-arthobler-2010-the-video/</link>
       <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>/post/ivan-franco-and-maria-radich-arthobler-2010-the-video/</guid>
+      <guid>https://ifranco.github.io/post/ivan-franco-and-maria-radich-arthobler-2010-the-video/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/OnEDu43X&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -283,9 +283,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Maria Radich &#43; Ivan Franco @ Arthobler</title>
-      <link>/post/maria-radich-ivan-franco-arthobler/</link>
+      <link>https://ifranco.github.io/post/maria-radich-ivan-franco-arthobler/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>/post/maria-radich-ivan-franco-arthobler/</guid>
+      <guid>https://ifranco.github.io/post/maria-radich-ivan-franco-arthobler/</guid>
       <description>&lt;p&gt;On the 10th of December I&amp;rsquo;ll be playing with Maria Radich (voice) in impro mash-up between my Airstick music and her experimental vocal talent.&lt;/p&gt;
 &lt;p&gt;10th December, 23:00 R. Rodrigues de Faria - LX Factory , Lisbon - Price: 5€&lt;/p&gt;
 </description>
@@ -293,9 +293,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Ivan Franco wins &#34;Personality of the Year 2010&#34; by APMP</title>
-      <link>/post/ivan-franco-wins-personality-of-the-year-2010-by-apmp/</link>
+      <link>https://ifranco.github.io/post/ivan-franco-wins-personality-of-the-year-2010-by-apmp/</link>
       <pubDate>Sat, 26 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>/post/ivan-franco-wins-personality-of-the-year-2010-by-apmp/</guid>
+      <guid>https://ifranco.github.io/post/ivan-franco-wins-personality-of-the-year-2010-by-apmp/</guid>
       <description>&lt;p&gt;I am pleased to announce that I have been awarded with the &amp;ldquo;Personality of the Year 2010&amp;rdquo; by APMP.&lt;/p&gt;
 &lt;p&gt;APMP is the Portuguese Association of Promotion for Multimedia and Digital Society and the National Multimedia Prize is now in its fifth edition.&lt;/p&gt;
 &lt;p&gt;&amp;quot; The Personality Award, with the goal of highlighting and rewarding an individual and the contribution for the development of the Information Society, has been awarded to Ivan Franco, R&amp;amp;D Director of YDreams, for his innovative and creative work in the field of interactivity and ubiquitous computing, acting in a context of a new generation of engineers/artists. Ivan Franco has a remarkable path as an electronic music composer and digital artist, focused on the development of new human-machine interfaces. This prize, attributed by nomination, reveals APMP&amp;rsquo;s commitment in the support of multiple activities with the goal of promoting the Portuguese Information Society. The award has been handed by the State Secretary for Energy and Innovation, Professor Carlos Zorrinho.&amp;rdquo;&lt;/p&gt;
@@ -305,9 +305,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Alkantara Festival - Amigos Coloridos</title>
-      <link>/post/alkantara-festival-amigos-coloridos/</link>
+      <link>https://ifranco.github.io/post/alkantara-festival-amigos-coloridos/</link>
       <pubDate>Sat, 22 May 2010 00:00:00 +0000</pubDate>
-      <guid>/post/alkantara-festival-amigos-coloridos/</guid>
+      <guid>https://ifranco.github.io/post/alkantara-festival-amigos-coloridos/</guid>
       <description>&lt;p&gt;Alkantara is one of the reference Portuguese festivals in performance arts, happening in both Lisbon and Porto.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ll be showing a new performance with 
 &lt;a href=&#34;http://www.ligiateixeira.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lígia&lt;/a&gt;
@@ -324,9 +324,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>TEDx Aveiro</title>
-      <link>/post/tedx-aveiro/</link>
+      <link>https://ifranco.github.io/post/tedx-aveiro/</link>
       <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
-      <guid>/post/tedx-aveiro/</guid>
+      <guid>https://ifranco.github.io/post/tedx-aveiro/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;http://www.tedxaveiro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.tedxaveiro.com/&lt;/a&gt;
 &lt;/p&gt;
@@ -337,9 +337,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>GEAR: Sound &amp; Interactive Media</title>
-      <link>/post/gear-sound-interactive-media/</link>
+      <link>https://ifranco.github.io/post/gear-sound-interactive-media/</link>
       <pubDate>Sun, 04 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>/post/gear-sound-interactive-media/</guid>
+      <guid>https://ifranco.github.io/post/gear-sound-interactive-media/</guid>
       <description>&lt;p&gt;Labcom and the Beira Interior University (UBI) are organizing the 
 &lt;a href=&#34;http://www.gear-up.info/&#34; title=&#34;GEAR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GEAR&lt;/a&gt;
  event from the 7th to the 12th of April. It&amp;rsquo;s a series of talks, demos and concerts on interactive media and it&amp;rsquo;s relation to the academic research. I&amp;rsquo;ll be doing talks on both my artistic practice and also the work at YDreams. I&amp;rsquo;ll be perfoming live on the 8th at Companhia Club (you can check the schedule 
@@ -350,9 +350,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>EME.LL - an orchestra of laptops</title>
-      <link>/post/eme-ll-an-orchestra-of-laptops/</link>
+      <link>https://ifranco.github.io/post/eme-ll-an-orchestra-of-laptops/</link>
       <pubDate>Thu, 26 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>/post/eme-ll-an-orchestra-of-laptops/</guid>
+      <guid>https://ifranco.github.io/post/eme-ll-an-orchestra-of-laptops/</guid>
       <description>&lt;p&gt;Last Sunday I was in Oporto, playing on the Olhares de Outono festival. Vitor Joaquim invited 16 laptopers for a super mash up of sound and image. We also had a reflexion session the previous day, thinking and discussing about the laptop as an instrument. Great people, great thoughts.&lt;/p&gt;
 &lt;p&gt;It was good to realize that you can join 16 mature improvisers on the same stage and still get a coherent performance. It&amp;rsquo;s important to listen, to give room and to act in the right timing. The language is evolving.&lt;/p&gt;
 &lt;p&gt;After EME.LL it was time for Scanner (Robin Rimbaud).&lt;/p&gt;
@@ -365,18 +365,18 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Lively Dreams wins Portuguese National Multimedia Award</title>
-      <link>/post/lively-dreams-wins-portuguese-national-multimedia-award/</link>
+      <link>https://ifranco.github.io/post/lively-dreams-wins-portuguese-national-multimedia-award/</link>
       <pubDate>Tue, 30 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>/post/lively-dreams-wins-portuguese-national-multimedia-award/</guid>
+      <guid>https://ifranco.github.io/post/lively-dreams-wins-portuguese-national-multimedia-award/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s my pleasure to announce that &amp;ldquo;Lively Dreams&amp;rdquo;, my latest dance piece with Lígia Teixeira, has won the entertainment category of the National Multimedia Award. This prize is awarded by the Association for Promotion of Multimedia and Digital Society (APMP). Our thanks to the team, that helped us give live to our own dreams.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pecha Kucha Lisbon VOL.06 | 13th May - Museu da Electricidade</title>
-      <link>/post/pecha-kucha-lisbon-vol-06-13th-may-museu-da-electricidade/</link>
+      <link>https://ifranco.github.io/post/pecha-kucha-lisbon-vol-06-13th-may-museu-da-electricidade/</link>
       <pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate>
-      <guid>/post/pecha-kucha-lisbon-vol-06-13th-may-museu-da-electricidade/</guid>
+      <guid>https://ifranco.github.io/post/pecha-kucha-lisbon-vol-06-13th-may-museu-da-electricidade/</guid>
       <description>&lt;p&gt;Pecha Kucha is a very interesting approach to sharing ideas and knowledge.&lt;/p&gt;
 &lt;p&gt;from Wikipedia:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;ldquo;Pecha Kucha&lt;/strong&gt; (ペチャクチャ), usually pronounced in three syllables like &amp;ldquo;pe-chak-cha&amp;rdquo;) is a presentation format in which content can be easily, efficiently and informally shown, usually at a public event designed for that purpose. Under the format, a presenter shows 20 images for 20 seconds apiece, for a total time of 6 minutes, 40 seconds.&lt;/p&gt;
@@ -404,9 +404,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>OFFF Festival 2009 in Oeiras (Lisbon)</title>
-      <link>/post/offf-festival-2009-in-oeiras-lisbon/</link>
+      <link>https://ifranco.github.io/post/offf-festival-2009-in-oeiras-lisbon/</link>
       <pubDate>Sat, 02 May 2009 00:00:00 +0000</pubDate>
-      <guid>/post/offf-festival-2009-in-oeiras-lisbon/</guid>
+      <guid>https://ifranco.github.io/post/offf-festival-2009-in-oeiras-lisbon/</guid>
       <description>&lt;p&gt;OFFF Festival is back in Lisbon and will take place during three days, from the 7th of May. This year&amp;rsquo;s moto is a very interesting one: &amp;ldquo;Fail Gracefully&amp;rdquo;. It&amp;rsquo;s an interesting subject, particularly for electronic performance arts, so unstable and willing to fail in the most crucial moment. There&amp;rsquo;s nothing worst than an onstage computer chime. Also if you develop tangible interfaces you&amp;rsquo;ll be mapping your natural environment through sensor acquisition, which naturally glitches. But we&amp;rsquo;ve learned to encompass these failures in our area and OFFF proposes that we embrace it, learn from it and even laugh at it. Error is also natural to the digital world.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ll be talking and maybe performing so make sure you drop by and pay us a visit at 
 &lt;a href=&#34;http://www.offf.ws/&#34; title=&#34;OFFF 2009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OFFF&lt;/a&gt;
@@ -416,9 +416,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>SXSW - &#34;New Interfaces for Performance&#34;</title>
-      <link>/post/sxsw-new-interfaces-for-performance/</link>
+      <link>https://ifranco.github.io/post/sxsw-new-interfaces-for-performance/</link>
       <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>/post/sxsw-new-interfaces-for-performance/</guid>
+      <guid>https://ifranco.github.io/post/sxsw-new-interfaces-for-performance/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;http://www.sxsw.com/&#34; title=&#34;SXSW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;South by Southwest&lt;/a&gt;
  is a media festival in Austin/Texas and its better known as an international showcase of new talents in the music industry. SXSW as grown in the last 20 years and now also includes many other activities, such as discussion panels or screenings, and has come to encompass other disciplines of culture and media like &amp;ldquo;Film&amp;rdquo; or &amp;ldquo;Interactive&amp;rdquo;.&lt;/p&gt;
@@ -435,9 +435,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Luso-phonia 2008</title>
-      <link>/post/luso-phonia-2008/</link>
+      <link>https://ifranco.github.io/post/luso-phonia-2008/</link>
       <pubDate>Thu, 27 Nov 2008 00:00:00 +0000</pubDate>
-      <guid>/post/luso-phonia-2008/</guid>
+      <guid>https://ifranco.github.io/post/luso-phonia-2008/</guid>
       <description>&lt;p&gt;Tonight I&amp;rsquo;ll be playing in Barcelona, at Espai NIU. This event is part of the Luso-phonia Exhibition, an event that wishes to address the relationships between sound art and the social space. It&amp;rsquo;s also a showcase of Portuguese sound artists and electronic musicians in Barcelona. You can check the details at:&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://www.luso-phonia.org/&#34; title=&#34;Luso-phonia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.luso-phonia.org/&lt;/a&gt;
@@ -447,9 +447,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Lively Dreams premiere at Temp d&#39;Images</title>
-      <link>/post/lively-dreams-premiere-at-temp-dimages/</link>
+      <link>https://ifranco.github.io/post/lively-dreams-premiere-at-temp-dimages/</link>
       <pubDate>Mon, 03 Nov 2008 00:00:00 +0000</pubDate>
-      <guid>/post/lively-dreams-premiere-at-temp-dimages/</guid>
+      <guid>https://ifranco.github.io/post/lively-dreams-premiere-at-temp-dimages/</guid>
       <description>&lt;p&gt;Lively Dreams is the title of a new contemporary dance piece, produced by me and Lígia Teixeira, and with the collaboration of an extensive array of programmers and designers. It will premiere next weekend, on 
 &lt;a href=&#34;http://www.tempsdimages-portugal.com/&#34; title=&#34;Temp D&amp;#39;Images&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Temp d&amp;rsquo;Images Festival&lt;/a&gt;
 , at CCB. You can find more details on 
@@ -461,9 +461,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Future Places Festival</title>
-      <link>/post/future-places-festival/</link>
+      <link>https://ifranco.github.io/post/future-places-festival/</link>
       <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
-      <guid>/post/future-places-festival/</guid>
+      <guid>https://ifranco.github.io/post/future-places-festival/</guid>
       <description>&lt;p&gt;Next Friday will be playing on the 
 &lt;a href=&#34;http://www.futureplaces.org/&#34; title=&#34;Future Places&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Future Places Festival&lt;/a&gt;
 . This event is organized by 
@@ -475,9 +475,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Piano Migration V - an online work by Ivan Franco &amp; Kathy Hinde at Interact</title>
-      <link>/post/piano-migration-v-an-online-work-by-ivan-franco-kathy-hinde-at-interact/</link>
+      <link>https://ifranco.github.io/post/piano-migration-v-an-online-work-by-ivan-franco-kathy-hinde-at-interact/</link>
       <pubDate>Thu, 02 Oct 2008 00:00:00 +0000</pubDate>
-      <guid>/post/piano-migration-v-an-online-work-by-ivan-franco-kathy-hinde-at-interact/</guid>
+      <guid>https://ifranco.github.io/post/piano-migration-v-an-online-work-by-ivan-franco-kathy-hinde-at-interact/</guid>
       <description>&lt;p&gt;Last month I was invited to present a work for the Interact online magazine. Interact is dedicated to new media art and culture, where they have a space named &amp;ldquo;Laboratory&amp;rdquo; as an online gallery. I thought that possibly an online gallery of this kind would essentially be dedicated to net.art but I was very fond of being allowed to freely choose whatever I wanted to present. So the result is &amp;ldquo;Piano Migration V&amp;rdquo;, a video piece produced in Max/MSP by me and Kathy Hinde during our last N.I.P residence. Kathy filmed a lovely nature moment and during some conversations we realized the beauty of combining natural and artificial into a pretty poetic and intertwined moment. You can find the piece on: 
 &lt;a href=&#34;http://www.interact.com.pt&#34; title=&#34;Interact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.interact.com.pt&lt;/a&gt;
 &lt;/p&gt;
@@ -487,9 +487,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>SXSW Panel Picking - New Interfaces for Performance</title>
-      <link>/post/sxsw-panel-picking-new-interfaces-for-performance/</link>
+      <link>https://ifranco.github.io/post/sxsw-panel-picking-new-interfaces-for-performance/</link>
       <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>/post/sxsw-panel-picking-new-interfaces-for-performance/</guid>
+      <guid>https://ifranco.github.io/post/sxsw-panel-picking-new-interfaces-for-performance/</guid>
       <description>&lt;p&gt;This year I submitted a panel to the South by Southwest 2009 Festival, in Austin Texas. This panel addresses the state-of-the-art on New Interfaces for Performance and its future challenges. Since these panels are chosen by the audience I encourage you to vote for my panel at 
 &lt;a href=&#34;http://panelpicker.sxsw.com/&#34; title=&#34;SXSW Panel Picker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://panelpicker.sxsw.com/&lt;/a&gt;
 , under &amp;ldquo;New Technology, Next Generation&amp;rdquo;. Deadline: 29th of August.&lt;/p&gt;
@@ -498,9 +498,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Ivan Franco &#43; André Gonçalves - Performance @ Europa (LX)</title>
-      <link>/post/ivan-franco-andre-goncalves-performance-europa-lx/</link>
+      <link>https://ifranco.github.io/post/ivan-franco-andre-goncalves-performance-europa-lx/</link>
       <pubDate>Thu, 17 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>/post/ivan-franco-andre-goncalves-performance-europa-lx/</guid>
+      <guid>https://ifranco.github.io/post/ivan-franco-andre-goncalves-performance-europa-lx/</guid>
       <description>&lt;p&gt;I have teamed up with 
 &lt;a href=&#34;http://www.undotw.org/ctrl/index.htm&#34; title=&#34;André Gonçalves&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;André Gonçalves&lt;/a&gt;
 , for an evening performance at Europa, next Saturday, the 19th of July. Europa is a club in the center of Lisbon, in Cais do Sodré. The event is sponsored by 
@@ -514,9 +514,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Um Festival</title>
-      <link>/post/um-festival/</link>
+      <link>https://ifranco.github.io/post/um-festival/</link>
       <pubDate>Tue, 17 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>/post/um-festival/</guid>
+      <guid>https://ifranco.github.io/post/um-festival/</guid>
       <description>&lt;p&gt;The 
 &lt;a href=&#34;http://www.1um1.net&#34; title=&#34;Um Festival&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Um Festival&lt;/a&gt;
  will start next Thursday in Lisbon. It&amp;rsquo;s the first edition of an Experimental and Mixed Media Festival and it will have a very distinct palette of artists, with conferences, workshops and performances. My talk is on Panel 1: &amp;ldquo;Gesture and Movement Based Interfaces&amp;rdquo;. I&amp;rsquo;ll try to review some electronic music controllers, relationships with the DIY generation and reflect on some design issues.&lt;/p&gt;
@@ -528,9 +528,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>NIP @ Espaço do Tempo</title>
-      <link>/post/nip-espaco-do-tempo/</link>
+      <link>https://ifranco.github.io/post/nip-espaco-do-tempo/</link>
       <pubDate>Mon, 16 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>/post/nip-espaco-do-tempo/</guid>
+      <guid>https://ifranco.github.io/post/nip-espaco-do-tempo/</guid>
       <description>&lt;p&gt;The last week was spent in 
 &lt;a href=&#34;http://www.oespacodotempo.pt/en/&#34; title=&#34;Espaço do Tempo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Espaço do Tempo&lt;/a&gt;
 , in residence with the 
@@ -543,9 +543,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Pixelache 08 Aftermath</title>
-      <link>/post/pixelache-08-aftermath/</link>
+      <link>https://ifranco.github.io/post/pixelache-08-aftermath/</link>
       <pubDate>Mon, 02 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>/post/pixelache-08-aftermath/</guid>
+      <guid>https://ifranco.github.io/post/pixelache-08-aftermath/</guid>
       <description>&lt;p&gt;We had a very good time! Here&amp;rsquo;s some video documentation.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -557,9 +557,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Pixelache</title>
-      <link>/post/pixelache/</link>
+      <link>https://ifranco.github.io/post/pixelache/</link>
       <pubDate>Sat, 09 Feb 2008 00:00:00 +0000</pubDate>
-      <guid>/post/pixelache/</guid>
+      <guid>https://ifranco.github.io/post/pixelache/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m traveling on the second week of March, with the N.I.P. crew, to go and play at the Pixelache festival in Helsinki. If you don&amp;rsquo;t know about 
 &lt;a href=&#34;http://www.pixelache.ac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pixelache&lt;/a&gt;
 , it&amp;rsquo;s a festival with seminars, performances and workshops on the topics of Digital Media. But no one better to explain it than 
@@ -572,18 +572,18 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>Ernesto de Sousa happenings</title>
-      <link>/post/ernesto-de-sousa-happenings/</link>
+      <link>https://ifranco.github.io/post/ernesto-de-sousa-happenings/</link>
       <pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/post/ernesto-de-sousa-happenings/</guid>
+      <guid>https://ifranco.github.io/post/ernesto-de-sousa-happenings/</guid>
       <description>&lt;p&gt;Today starts a series of events dedicated to the 15 years of the Ernesto de Sousa Scholarship. This scholarship is specially dedicated to intermedia arts and have been supported by FLAD, Gulbenkian and Phil Niblock, who has tutored all of these students in NY. For this event a series of installations and concerts are happening in Espaço Avenida, in Av. da Liberdade 211. I&amp;rsquo;m playing too. Here&amp;rsquo;s the program:&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A New Controller - using the Wiimote for Free Gesture Performance</title>
-      <link>/post/a-new-controller-using-the-wiimote-for-free-gesture-performance/</link>
+      <link>https://ifranco.github.io/post/a-new-controller-using-the-wiimote-for-free-gesture-performance/</link>
       <pubDate>Mon, 24 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>/post/a-new-controller-using-the-wiimote-for-free-gesture-performance/</guid>
+      <guid>https://ifranco.github.io/post/a-new-controller-using-the-wiimote-for-free-gesture-performance/</guid>
       <description>&lt;p&gt;A week before the N.I.P. crew arrived at Amsterdam I was already at 
 &lt;a href=&#34;http://www.steim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steim&lt;/a&gt;
 , experimenting with a new controller for my performances.&lt;/p&gt;
@@ -614,10 +614,10 @@ It is materialized through a fantastic setup of cable suspensions, which interac
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/a-new-controller-using-the-wiimote-for-free-gesture-performance/led-fingers1_hu0f22aae05d9cbf8fbe8cfe10533daca4_77580_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/post/a-new-controller-using-the-wiimote-for-free-gesture-performance/led-fingers1_hu0f22aae05d9cbf8fbe8cfe10533daca4_77580_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/post/a-new-controller-using-the-wiimote-for-free-gesture-performance/led-fingers1_hu0f22aae05d9cbf8fbe8cfe10533daca4_77580_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;480&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/post/a-new-controller-using-the-wiimote-for-free-gesture-performance/led-fingers1_hu0f22aae05d9cbf8fbe8cfe10533daca4_77580_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;480&#34;&gt;
 &lt;/a&gt;
 
 
@@ -631,9 +631,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>The winter N.I.P. session outcomes</title>
-      <link>/post/the-winter-nip-session-outcomes/</link>
+      <link>https://ifranco.github.io/post/the-winter-nip-session-outcomes/</link>
       <pubDate>Mon, 24 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>/post/the-winter-nip-session-outcomes/</guid>
+      <guid>https://ifranco.github.io/post/the-winter-nip-session-outcomes/</guid>
       <description>&lt;p&gt;Again the N.I.P. crew was together at STEIM (Amsterdam). This time around we concentrated essentially on theoretical thinking about performing with new media. A very good exercise was to build some mind maps and find out about the different issues that each one of us is concerned about.&lt;/p&gt;
 &lt;p&gt;One word that sticked to my mind was “fragility”. Is fragility what makes us interested in performance per se? Knowing that the performer is expressing his own thoughts and ideas into an improvisational scenario and that it can all just go wrong.&lt;/p&gt;
 &lt;p&gt;Of course it is easy to point that it could simply go wrong (or be bad) because the performer is not good enough, but we must also consider that the digital system itself is prone to misbehavior. The digital media should, in theoretical terms, be immune to error or failure, since machines should always behave the same, with certainty to them. Thus it should be controllable by definition, which doesn’t really happen.&lt;/p&gt;
@@ -648,9 +648,9 @@ It is materialized through a fantastic setup of cable suspensions, which interac
     
     <item>
       <title>NIP residence @ STEIM</title>
-      <link>/post/nip-residence-steim/</link>
+      <link>https://ifranco.github.io/post/nip-residence-steim/</link>
       <pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>/post/nip-residence-steim/</guid>
+      <guid>https://ifranco.github.io/post/nip-residence-steim/</guid>
       <description>&lt;p&gt;The NIP group is currently at 
 &lt;a href=&#34;http://www.steim.org/steim/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steim&lt;/a&gt;
  in Amsterdam, reflecting on Performing with New Interfaces.&lt;/p&gt;

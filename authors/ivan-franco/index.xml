@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ivan Franco</title>
-    <link>/authors/ivan-franco/</link>
-      <atom:link href="/authors/ivan-franco/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ifranco.github.io/authors/ivan-franco/</link>
+      <atom:link href="https://ifranco.github.io/authors/ivan-franco/index.xml" rel="self" type="application/rss+xml" />
     <description>Ivan Franco</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Ivan Franco</title>
-      <link>/authors/ivan-franco/</link>
+      <link>https://ifranco.github.io/authors/ivan-franco/</link>
     </image>
     
     <item>
       <title>Prynth</title>
-      <link>/project/prynth/</link>
+      <link>https://ifranco.github.io/project/prynth/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/project/prynth/</guid>
+      <guid>https://ifranco.github.io/project/prynth/</guid>
       <description>&lt;p&gt;Prynth are programmable sound synthesizers powered by single-board computers. They combine the advantages of dedicated hardware with the flexibility of programming.&lt;/p&gt;
 &lt;p&gt;This project&amp;rsquo;s goal is to develop a set of free technologies and guides for instrument assembly, while fostering knowledge exchange and discussion between creators.&lt;/p&gt;
 &lt;p&gt;For more information visit the 
@@ -51,8 +51,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/control_rpi.jpg&#34; data-caption=&#34;Prynth&amp;amp;rsquo;s base hardware system.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/control_rpi_hu75b438d50cc80c55d80a4c4e6f8bff49_632359_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/control_rpi.jpg&#34; data-caption=&#34;Prynth&amp;amp;rsquo;s base hardware system.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/control_rpi_hu75b438d50cc80c55d80a4c4e6f8bff49_632359_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -64,8 +64,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/mitt_composition.png&#34; data-caption=&#34;The Mitt, my own instrument.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/mitt_composition_hud47a73a396af7447fd38496d5c6f9504_33233483_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/mitt_composition.png&#34; data-caption=&#34;The Mitt, my own instrument.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/mitt_composition_hud47a73a396af7447fd38496d5c6f9504_33233483_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -77,8 +77,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/noisebox3.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/noisebox3_hu1ef4a4afe9caffe5e78077dd4e9d7047_945428_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox3.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox3_hu1ef4a4afe9caffe5e78077dd4e9d7047_945428_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -90,8 +90,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/noisebox4.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/noisebox4_hu1be48b288e9fc5ee91e7a968a03f492e_649921_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;126&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox4.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox4_hu1be48b288e9fc5ee91e7a968a03f492e_649921_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;126&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -103,8 +103,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/rr1.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/rr1_huc797396d9f3d6b910be8d805291db43d_159941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/rr1.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/rr1_huc797396d9f3d6b910be8d805291db43d_159941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -116,8 +116,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/rr3.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/rr3_hu48b0e80ee95aa58f48c045794e35b51a_205156_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/rr3.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/rr3_hu48b0e80ee95aa58f48c045794e35b51a_205156_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -129,8 +129,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/soundboard1.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/soundboard1_hu5d2f68952d89739b943829766d849621_100546_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard1.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard1_hu5d2f68952d89739b943829766d849621_100546_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -142,8 +142,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/soundboard2.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/soundboard2_hub11a01f88290f86b3b46a3200c14cf57_356078_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard2.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard2_hub11a01f88290f86b3b46a3200c14cf57_356078_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -163,9 +163,9 @@
     
     <item>
       <title>Vibropixels</title>
-      <link>/project/vibropixels/</link>
+      <link>https://ifranco.github.io/project/vibropixels/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/project/vibropixels/</guid>
+      <guid>https://ifranco.github.io/project/vibropixels/</guid>
       <description>&lt;p&gt;The Vibropixels are self-contained haptic devices, composed of two vibrotactile actuators, four RGB LEDs and a battery. They can be used to create haptic feedback systems for wearables or other interactive devices. The Vibropixels can be controlled individually or by the hundreds, which makes them useful for interactive works with many users or the creation of high-density tactile displays.&lt;/p&gt;
 &lt;p&gt;The Vibropixels were used in Haptic Fields by Chris Salter and Tez.&lt;/p&gt;
 
@@ -189,10 +189,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/vibropixels/VPs_manufacture_huf8690bd31b26794d34b9cd6d5b8623f0_56891_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;140 Vibropixels, manufactured for the Haptic Fields interactive installation (photo by Ian Hattwick).&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/vibropixels/VPs_manufacture_huf8690bd31b26794d34b9cd6d5b8623f0_56891_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;140 Vibropixels, manufactured for the Haptic Fields interactive installation (photo by Ian Hattwick).&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/vibropixels/VPs_manufacture_huf8690bd31b26794d34b9cd6d5b8623f0_56891_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;300&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/vibropixels/VPs_manufacture_huf8690bd31b26794d34b9cd6d5b8623f0_56891_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;300&#34;&gt;
 &lt;/a&gt;
 
 
@@ -221,11 +221,369 @@
     </item>
     
     <item>
+      <title>Strings of Thought 2</title>
+      <link>https://ifranco.github.io/project/strings-of-thought-2/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/strings-of-thought-2/</guid>
+      <description>&lt;p&gt;A woman sits on a chair and from her head several strings emerge to form a network structure like dendritic trees of neurons. These cells generate electric signals based on potential voltage and the reaction to outside stimuli.&lt;/p&gt;
+&lt;p&gt;Strings of Thought 2 is an interactive installation that invites the audience to explore and play with a musical meta-instrument and collaboratively create an intricate soundscape. It is an hybrid art piece of music, performance and installation, that depicts the process of human mental activity and its decomposition into the simpler synaptic events of the brain.&lt;/p&gt;
+&lt;p&gt;The audience enters a room to find a woman sitting on a chair. From her hair several strings protrude, which in turn are attached to piezoelectric sensors. The plucking of the strings generates voltage spikes on the sensor array that sends these electrical pulses to the computer, while a program written in Supercollider reinterprets this data and shapes it into sonic structures. This process very clearly resembles its biological counterpart happening at the neural level.&lt;/p&gt;
+&lt;p&gt;The result is a peek into the soul of this lady character, as the audience is invited to play the instrument and create a soundscape composed of music and also the inner voices of this woman’s reasoning. Through this digital aesthetic artists Ivan Franco and Lígia Teixeira explore the recreation of the process of neural transmission in the brain and how this biological process evolves into the complexity of consciousness.&lt;/p&gt;
+&lt;h3 id=&#34;strings-of-thought-2--harvestworksny-2013&#34;&gt;Strings of Thought 2 @ Harvestworks(NY 2013)&lt;/h3&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings1.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings1_hubdf01072093ceb57d3a137be70742a2c_493982_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings2.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings2_hu22c9a430b12b6babfee7d9fec1c3fa92_489286_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings3.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings3_hu14deedbce39b8ad18adbe77e4145df88_542201_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings4.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings4_hu567caaca44b61e570ffb2299cf6dba36_564751_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings5.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings5_hu08b47d270e20aa5f3a0811b949d9945c_532664_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings6.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings6_hu8a213c27ea43bacf840328a022340714_497648_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings7.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings7_hufc37062ba084482eebab7b91676988cd_568443_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings8.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings8_hub9eb76a52ebc1909b82c156c361ef31c_501047_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt; --&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings1.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings1_hubdf01072093ceb57d3a137be70742a2c_493982_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings2.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings2_hu22c9a430b12b6babfee7d9fec1c3fa92_489286_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings3.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings3_hu14deedbce39b8ad18adbe77e4145df88_542201_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings4.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings4_hu567caaca44b61e570ffb2299cf6dba36_564751_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings5.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings5_hu08b47d270e20aa5f3a0811b949d9945c_532664_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings6.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings6_hu8a213c27ea43bacf840328a022340714_497648_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings7.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings7_hufc37062ba084482eebab7b91676988cd_568443_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings8.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings8_hub9eb76a52ebc1909b82c156c361ef31c_501047_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+&lt;p&gt;Artistic Direction, Performance: Ivan Franco and Lígia Teixeira&lt;/p&gt;
+&lt;p&gt;Concept: Lígia Teixeira&lt;/p&gt;
+&lt;p&gt;Sound, Programming, Electronics: Ivan Franco&lt;/p&gt;
+&lt;p&gt;Text: Liza Wade Green&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;A MILLIWAYS production, in partnership with Harvestworks(NY).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ifranco.github.io/project/contact/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/contact/</guid>
+      <description>&lt;p&gt;Contact is a performance/installation of electronic music, where a set of custom instruments that are first played by Ivan Franco and later offered to the audience to invite participation and collaboration in the musical event. Contact&amp;rsquo;s meta-instruments are send data to a central software system with an algorithmic music program that creates a coherent musical output.&lt;/p&gt;
+&lt;p&gt;In “Close Encounters of the Third Kind”, Steven Spielberg explores the idea of music patterns to communicate with alien life. The two species are bound by the simplification of language into the common traits of musical scales and the ability to understand harmony. The goal in this piece is to challenge the spectator to be a part of the musical experimentation, by breaking formal stage boundaries and bringing the audience into the performative space. This first-hand participation in the sonic experience yields interesting results, as the audience explores their performative sensibility and music as a form of communication.&lt;/p&gt;
+&lt;p&gt;Contact premiered at Culturgest in December 2012, as part of the 27 Sentidos cycle promoted by Granular.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/contact/gallery/contact1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/contact/gallery/contact1_hu608f4e53ea8b255795801355588f7ab0_24898_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/contact/gallery/contact3.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/contact/gallery/contact3_hu8fa8d78a0d7eb97b13542bf02fc609c9_40057_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/contact/gallery/contact4.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/contact/gallery/contact4_hu460cf71337048856dbcfb22adcb8c376_46015_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/contact/gallery/contact5.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/contact/gallery/contact5_hu19fd8861d77bc7d0df3264d8a5861309_75874_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+&lt;p&gt;Artistic direction, hardware and software: Ivan Franco&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;Granular&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Strings of Thought</title>
-      <link>/project/strings-of-thought/</link>
+      <link>https://ifranco.github.io/project/strings-of-thought/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/project/strings-of-thought/</guid>
-      <description>&lt;p&gt;STRINGS OF THOUGHT is a contemporary dance piece that uses digital media as part of an interactive scenography. Conceptually, the project intends to evoke human self-reflection and its consequence on the decision-making process. This introspection also questions the duality of who we are and who we wish to be.&lt;/p&gt;
+      <guid>https://ifranco.github.io/project/strings-of-thought/</guid>
+      <description>&lt;p&gt;Strings of Thought is a contemporary dance piece using interactive scenography. Conceptually, the project intends to evoke human self-reflection and its consequence on the decision-making process. This introspection also questions the duality of who we are and who we wish to be.&lt;/p&gt;
 
 
 
@@ -247,17 +605,49 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/strings-of-thought/strings_hu706ebd9cbf780653c64ec1c85f812bb4_152257_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought/strings_hu706ebd9cbf780653c64ec1c85f812bb4_152257_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/strings-of-thought/strings_hu706ebd9cbf780653c64ec1c85f812bb4_152257_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;533&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought/strings_hu706ebd9cbf780653c64ec1c85f812bb4_152257_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;533&#34;&gt;
 &lt;/a&gt;
 
 
 
 &lt;/figure&gt;
 
-&lt;p&gt;In the performance, this argumentation is materialized through a scenic setup of suspended cables attached to various points of the dancer&amp;rsquo;s body. They represent the abstractions of our personal dogmas, conditioning movement and dexterity. This group of cables presents interesting physical responses, since they can both retract or extend. They also have a braking system, so that acceleration over a certain threshold will block the performers movement. Furthermore a set of electronic sensors were installed, granting the ability to digitally monitor several properties of the cable and thus dynamically generate sound and light, through the connection to interactive digital systems. These interactive systems are comprised of custom electronics and computer programs that were specially created to operate in realtime, allowing the choreography to become a motor for all the music and stage effects.&lt;/p&gt;
+&lt;p&gt;In the performance, this argumentation is materialized through a scenic setup of suspended cables attached to various points of the dancer&amp;rsquo;s body. They represent the abstractions of our personal dogmas, conditioning movement and dexterity. This group of cables presents interesting physical responses, since they can both retract or extend. They also have a braking system, so that acceleration over a certain threshold will block the performers movement.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought/strings2_hu7994c5d5a85c0bb54717ac81f930f3ff_161873_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought/strings2_hu7994c5d5a85c0bb54717ac81f930f3ff_161873_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;533&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The cables have a set of embedded sensors that measure linear movement and weight, generating data to digitally control light and sound. These interactive systems operate in realtime, allowing the choreography to become the motor for all the music and stage effects.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/49363337&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -285,9 +675,9 @@
     
     <item>
       <title>Ynvisible</title>
-      <link>/project/ynvisible/</link>
+      <link>https://ifranco.github.io/project/ynvisible/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/project/ynvisible/</guid>
+      <guid>https://ifranco.github.io/project/ynvisible/</guid>
       <description>&lt;p&gt;In the late 2000s YDreams&amp;rsquo;s began a research division dedicated to printed electronics and electrochromic displays, later raising significant investment to spin-off as 
 &lt;a href=&#34;https://www.ynvisible.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ynvisible&lt;/a&gt;
 . At the time we were mainly looking at inkjet solutions but since then Ynvisible has mastered industrialized manufacturing through roll-to-roll processes.&lt;/p&gt;
@@ -312,10 +702,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/ynvisible/electrochromic_hu83b10f879877779c586536c09fe26f34_19825_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;An electrochromic display.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/ynvisible/electrochromic_hu83b10f879877779c586536c09fe26f34_19825_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;An electrochromic display.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/ynvisible/electrochromic_hu83b10f879877779c586536c09fe26f34_19825_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/ynvisible/electrochromic_hu83b10f879877779c586536c09fe26f34_19825_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
 &lt;/a&gt;
 
 
@@ -346,9 +736,9 @@
     
     <item>
       <title>I-Garment</title>
-      <link>/project/i-garment/</link>
+      <link>https://ifranco.github.io/project/i-garment/</link>
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      <guid>/project/i-garment/</guid>
+      <guid>https://ifranco.github.io/project/i-garment/</guid>
       <description>&lt;p&gt;In 2007/2008 YDreams developed I-Garment, a smart garment for firefighters, equipped with GPS, vital signal monitoring, sensing of body position and alerts. The garment collects all this data in realtime and relays the information to an operational field vehicle via radio-frequency transmission.&lt;/p&gt;
 
 
@@ -371,10 +761,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/i-garment/igarment_schematic_hufbd4c1fc7fee4b1c6e78adb763a9626d_53843_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Data network of firefighting theater of operations.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/i-garment/igarment_schematic_hufbd4c1fc7fee4b1c6e78adb763a9626d_53843_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Data network of firefighting theater of operations.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/i-garment/igarment_schematic_hufbd4c1fc7fee4b1c6e78adb763a9626d_53843_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;914&#34; height=&#34;678&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/i-garment/igarment_schematic_hufbd4c1fc7fee4b1c6e78adb763a9626d_53843_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;914&#34; height=&#34;678&#34;&gt;
 &lt;/a&gt;
 
 
@@ -395,12 +785,135 @@
     </item>
     
     <item>
+      <title>Algum Dia Tinha de Ser a Sério</title>
+      <link>https://ifranco.github.io/project/algum-dia/</link>
+      <pubDate>Sat, 08 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/algum-dia/</guid>
+      <description>&lt;p&gt;“Algum Dia Tinha De Ser A Sério” is a dance piece directed by me and Lígia Teixeira. It’s about the relationship between a woman and her imaginary companion. The woman lives between two spaces: bed and concrete reality.&lt;/p&gt;
+&lt;p&gt;Placed on the bed is a full sized aquarium, representing the woman’s dream-space. The man’s image lives bi-dimensionally both on the bed and the aquarium’s side. They interact in a love dance and are participants in the woman’s shift between the two worlds of dream and reality, from passion to disillusion.&lt;/p&gt;
+&lt;p&gt;The Performance:&lt;/p&gt;
+&lt;p&gt;“Algum Dia Tinha de Ser a Sério” is a dance performance which represents the love relationship between a woman and an imaginary man, by staging the telematic contact between the two. In a room, where a bed bridges between real and imaginary, the lovers inhabit different dimensions: while the tridimensional woman is inside the aquarium, the bi-dimensional man is on the bed.&lt;/p&gt;
+&lt;p&gt;Technically the telematic experience is accomplished by using two synchronized projections of the man on the bed, captured in realtime in an alternate room, where the dancer is filmed. He also has reference video monitors, which allow him to see the stage action. The woman is inside a full water tank, placed over the bed, where the two projections (vertical and horizontal) are applied on the bed’s surface and on the back face of the aquarium. Image projection over the tank’s translucent surface is possible by using a special transparent film, which induces the illusion of a holographic video image.&lt;/p&gt;
+&lt;p&gt;The feminine character is also confronted with a third space: the outside world. It reveals the harsh confrontation with the “concréte” quotidian, a world apart from the room, the dream’s private space, able to induce the illusion for the imaginary lover. The traveling between these two worlds is symbolized by a lamp, switched on and off by the dancer, transporting her from one world to the other.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/algum-dia/gallery/alternate-room-1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/algum-dia/gallery/alternate-room-1_hu3d03a01dcc18bc5be0e67db3d8d209a6_66667_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/algum-dia/gallery/lamp.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/algum-dia/gallery/lamp_hu8264a01132114097428ad014d54a3696_82828_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;126&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/algum-dia/gallery/lovers-1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/algum-dia/gallery/lovers-1_hua2ca5ef6b086145235a2584a4da71efe_46914_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/algum-dia/gallery/lovers-2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/algum-dia/gallery/lovers-2_hu3d03a01dcc18bc5be0e67db3d8d209a6_50881_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/algum-dia/gallery/man.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/algum-dia/gallery/man_hu3d03a01dcc18bc5be0e67db3d8d209a6_70399_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/algum-dia/gallery/schematics.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/algum-dia/gallery/schematics_hu3d03a01dcc18bc5be0e67db3d8d209a6_92370_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;259&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+&lt;p&gt;Artistic Direction: Ivan Franco and Lígia Teixeira&lt;/p&gt;
+&lt;p&gt;Choreography: Lígia Teixeira&lt;/p&gt;
+&lt;p&gt;Interpretation: Lígia Teixeira and David Marques&lt;/p&gt;
+&lt;p&gt;Music: Ivan Franco e André Nascimento&lt;/p&gt;
+&lt;p&gt;Light Design: André Almeida&lt;/p&gt;
+&lt;p&gt;Programming: Gonçalo Lopes, André Almeida and Ivan Franco&lt;/p&gt;
+&lt;p&gt;Technical Assistance: Coias&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;Centro Cultural de Belém&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Audience Entertainment</title>
-      <link>/project/audience-entertainment/</link>
+      <link>https://ifranco.github.io/project/audience-entertainment/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/project/audience-entertainment/</guid>
+      <guid>https://ifranco.github.io/project/audience-entertainment/</guid>
       <description>&lt;p&gt;In 2007 YDreams created an 
-&lt;a href=&#34;/project/augmented-reality/&#34;&gt;augmented reality&lt;/a&gt;
+&lt;a href=&#34;https://ifranco.github.io/project/augmented-reality/&#34;&gt;augmented reality&lt;/a&gt;
 
 ad for the Dove soap brand that allowed moviegoers to play with bubbles on the big screen.&lt;/p&gt;
 
@@ -424,10 +937,10 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/audience-entertainment/2007-dove_hu64c3d98f7b1f1a8f062ad86faacd25eb_828340_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Dove&amp;rsquo;s interactive ad in the cinema.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/audience-entertainment/2007-dove_hu64c3d98f7b1f1a8f062ad86faacd25eb_828340_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Dove&amp;rsquo;s interactive ad in the cinema.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/audience-entertainment/2007-dove_hu64c3d98f7b1f1a8f062ad86faacd25eb_828340_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2203&#34; height=&#34;1652&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/audience-entertainment/2007-dove_hu64c3d98f7b1f1a8f062ad86faacd25eb_828340_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2203&#34; height=&#34;1652&#34;&gt;
 &lt;/a&gt;
 
 
@@ -463,10 +976,10 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/audience-entertainment/2009-orange_huda4624b522a5953b6ed9b9c5c66244e6_826254_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Orange Mobile Festival of Lights 2009: 20,000 people collaboratively playing a game on the same giant screen.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/audience-entertainment/2009-orange_huda4624b522a5953b6ed9b9c5c66244e6_826254_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Orange Mobile Festival of Lights 2009: 20,000 people collaboratively playing a game on the same giant screen.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/audience-entertainment/2009-orange_huda4624b522a5953b6ed9b9c5c66244e6_826254_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1019&#34; height=&#34;764&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/audience-entertainment/2009-orange_huda4624b522a5953b6ed9b9c5c66244e6_826254_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1019&#34; height=&#34;764&#34;&gt;
 &lt;/a&gt;
 
 
@@ -501,10 +1014,10 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/audience-entertainment/2014-event-technology-awards_hu487f37b9013bf693018e79f0d7eb24fc_77845_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;The 2014 Event Technology Award.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/audience-entertainment/2014-event-technology-awards_hu487f37b9013bf693018e79f0d7eb24fc_77845_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;The 2014 Event Technology Award.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/audience-entertainment/2014-event-technology-awards_hu487f37b9013bf693018e79f0d7eb24fc_77845_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;960&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/audience-entertainment/2014-event-technology-awards_hu487f37b9013bf693018e79f0d7eb24fc_77845_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;960&#34;&gt;
 &lt;/a&gt;
 
 
@@ -532,10 +1045,54 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
     </item>
     
     <item>
+      <title>Airstick</title>
+      <link>https://ifranco.github.io/project/airstick/</link>
+      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/airstick/</guid>
+      <description>&lt;p&gt;The growing computation power allowed musicians to start considering instrumentation in live computer music. The typical computer interfaces proved to be poor for this new “instrumental” quality, resulting in the development of new physical interfaces. These interfaces tend to be fully customized and only limited by one’s creativity.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/airstick/airstick_sideways_hu82d6ab74519390a1f826607a012b1216_28519_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/airstick/airstick_sideways_hu82d6ab74519390a1f826607a012b1216_28519_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;300&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Some of these controllers are based on gesture mapping: music controllers that respond to body articulations performed “in the air”, without any physical contact between a player and the instrument’s body. AirStick is played “in the air”, in a Theremin style. It is composed of an array of infrared proximity sensors, which allow the mapping of the position of any interfering obstacle inside a bi-dimensional zone. This controller sends both x and y control data to various real-time synthesis algorithms.&lt;/p&gt;
+&lt;p&gt;The Airstick was first presented in the 
+&lt;a href=&#34;https://www.nime.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIME 2005 Conference&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Augmented Reality</title>
-      <link>/project/augmented-reality/</link>
+      <link>https://ifranco.github.io/project/augmented-reality/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/project/augmented-reality/</guid>
+      <guid>https://ifranco.github.io/project/augmented-reality/</guid>
       <description>&lt;p&gt;Augmented Reality (AR) was a key area of research at YDreams. Since the beginning of the company we had a clear vision of the possibilities of AR, inspired by the early work of people like Steven Feiner and the experiments on synthetic image of our own co-founder Edmundo Nobre. In 2005 we were creating our first experiments on 3D projected AR, featuring space mapping to enable occlusions and shadow casting. We also dynamically mapped real objects, creating realtime physics models so they could interact with digital objects.&lt;/p&gt;
 &lt;p&gt;
 
@@ -558,10 +1115,10 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/augmented-reality/mascot_hu69c95b063c20aa25c5b1458b605f0acd_106517_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A virtual character strolling through our office.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/augmented-reality/mascot_hu69c95b063c20aa25c5b1458b605f0acd_106517_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A virtual character strolling through our office.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/augmented-reality/mascot_hu69c95b063c20aa25c5b1458b605f0acd_106517_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;240&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/augmented-reality/mascot_hu69c95b063c20aa25c5b1458b605f0acd_106517_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;240&#34;&gt;
 &lt;/a&gt;
 
 
@@ -595,10 +1152,10 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/augmented-reality/realsim_hu993745db4345f88f331c63a65cf1f247_163266_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Realsim: a real and a virtual car interacting on the same environment, with occlusions and collisions.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/augmented-reality/realsim_hu993745db4345f88f331c63a65cf1f247_163266_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Realsim: a real and a virtual car interacting on the same environment, with occlusions and collisions.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/augmented-reality/realsim_hu993745db4345f88f331c63a65cf1f247_163266_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;240&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/augmented-reality/realsim_hu993745db4345f88f331c63a65cf1f247_163266_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;240&#34;&gt;
 &lt;/a&gt;
 
 
@@ -633,10 +1190,10 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/augmented-reality/antao_hu8a4b21424e77769aed0a684fd92af307_643520_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Our collaborator Antão Almada, playing with virtual water and bubbles.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/augmented-reality/antao_hu8a4b21424e77769aed0a684fd92af307_643520_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Our collaborator Antão Almada, playing with virtual water and bubbles.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/augmented-reality/antao_hu8a4b21424e77769aed0a684fd92af307_643520_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;480&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/augmented-reality/antao_hu8a4b21424e77769aed0a684fd92af307_643520_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;480&#34;&gt;
 &lt;/a&gt;
 
 
@@ -671,10 +1228,10 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/augmented-reality/vss_hu48afa7024e8ba1b33c8bff5219bf8efc_784223_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Virtual Sightseeing: an AR kiosk for touristic viewpoints.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/augmented-reality/vss_hu48afa7024e8ba1b33c8bff5219bf8efc_784223_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Virtual Sightseeing: an AR kiosk for touristic viewpoints.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/augmented-reality/vss_hu48afa7024e8ba1b33c8bff5219bf8efc_784223_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2197&#34; height=&#34;1648&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/augmented-reality/vss_hu48afa7024e8ba1b33c8bff5219bf8efc_784223_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2197&#34; height=&#34;1648&#34;&gt;
 &lt;/a&gt;
 
 
@@ -709,10 +1266,10 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/augmented-reality/markerless-AR_hubaebc67c5ce3097cc378b078c5481c7d_663896_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Antão&amp;rsquo;s fine interaction with a green elastic blob.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/augmented-reality/markerless-AR_hubaebc67c5ce3097cc378b078c5481c7d_663896_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Antão&amp;rsquo;s fine interaction with a green elastic blob.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/augmented-reality/markerless-AR_hubaebc67c5ce3097cc378b078c5481c7d_663896_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;720&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/augmented-reality/markerless-AR_hubaebc67c5ce3097cc378b078c5481c7d_663896_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;720&#34;&gt;
 &lt;/a&gt;
 
 
@@ -747,10 +1304,10 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/augmented-reality/are-2010_hu22bfc805187c8a1b786e4049052238b0_45478_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Receiving the ARE 2010 award in the name of the whole team.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/augmented-reality/are-2010_hu22bfc805187c8a1b786e4049052238b0_45478_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Receiving the ARE 2010 award in the name of the whole team.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/augmented-reality/are-2010_hu22bfc805187c8a1b786e4049052238b0_45478_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;948&#34; height=&#34;508&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/augmented-reality/are-2010_hu22bfc805187c8a1b786e4049052238b0_45478_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;948&#34; height=&#34;508&#34;&gt;
 &lt;/a&gt;
 
 
@@ -787,9 +1344,9 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
     
     <item>
       <title>Brand and Retail</title>
-      <link>/project/brand-retail/</link>
+      <link>https://ifranco.github.io/project/brand-retail/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/project/brand-retail/</guid>
+      <guid>https://ifranco.github.io/project/brand-retail/</guid>
       <description>&lt;p&gt;In the mid 2000s, one of the most important business activities for YDreams was the creation of digital experiences for retail and brands. Many brick and mortars saw the value in developing more attractive shopping experiences, considering the rise of online sales giants like Amazon. Many brands also understood the need to appeal to a new generation of consumers, which could be accomplish through the showcase of innovation in showrooms and fair booths. YDreams now counts thousands of these projects for clients such as Nike, Disney, Coca-cola or Microsoft.&lt;/p&gt;
 &lt;h1 id=&#34;selected-cases&#34;&gt;Selected Cases&lt;/h1&gt;
 &lt;h2 id=&#34;vodafone-cube-2002&#34;&gt;Vodafone Cube (2002)&lt;/h2&gt;
@@ -814,10 +1371,10 @@ ad for the Dove soap brand that allowed moviegoers to play with bubbles on the b
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/brand-retail/vodafone-cube-1_hu1f33911b518c6934576cc7d2bf2af53e_1100937_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/vodafone-cube-1_hu1f33911b518c6934576cc7d2bf2af53e_1100937_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/brand-retail/vodafone-cube-1_hu1f33911b518c6934576cc7d2bf2af53e_1100937_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2048&#34; height=&#34;1536&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/vodafone-cube-1_hu1f33911b518c6934576cc7d2bf2af53e_1100937_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2048&#34; height=&#34;1536&#34;&gt;
 &lt;/a&gt;
 
 
@@ -846,10 +1403,10 @@ Located at Vodafone&amp;rsquo;s Lisbon headquarters, the Vodafone Cube was a lar
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/brand-retail/vodafone-cube-2_hu95e8d69dd1205f7a3a8a17af1fc7ea0c_77944_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/vodafone-cube-2_hu95e8d69dd1205f7a3a8a17af1fc7ea0c_77944_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/brand-retail/vodafone-cube-2_hu95e8d69dd1205f7a3a8a17af1fc7ea0c_77944_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;425&#34; height=&#34;566&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/vodafone-cube-2_hu95e8d69dd1205f7a3a8a17af1fc7ea0c_77944_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;425&#34; height=&#34;566&#34;&gt;
 &lt;/a&gt;
 
 
@@ -878,10 +1435,10 @@ Located at Vodafone&amp;rsquo;s Lisbon headquarters, the Vodafone Cube was a lar
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/brand-retail/adidas-eyeball_hud462b2ac50a2537d007c2262e5b56f37_515233_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/adidas-eyeball_hud462b2ac50a2537d007c2262e5b56f37_515233_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/brand-retail/adidas-eyeball_hud462b2ac50a2537d007c2262e5b56f37_515233_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1383&#34; height=&#34;1037&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/adidas-eyeball_hud462b2ac50a2537d007c2262e5b56f37_515233_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1383&#34; height=&#34;1037&#34;&gt;
 &lt;/a&gt;
 
 
@@ -911,10 +1468,10 @@ The Adidas Eyeballs were a series of large-scale interactive displays created fo
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/brand-retail/hello-kitty_hu4a7bf14c4f65eca51e5718cae4e07193_781392_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/hello-kitty_hu4a7bf14c4f65eca51e5718cae4e07193_781392_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/brand-retail/hello-kitty_hu4a7bf14c4f65eca51e5718cae4e07193_781392_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2202&#34; height=&#34;1651&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/hello-kitty_hu4a7bf14c4f65eca51e5718cae4e07193_781392_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2202&#34; height=&#34;1651&#34;&gt;
 &lt;/a&gt;
 
 
@@ -944,10 +1501,10 @@ An interactive installation for Hello Kitty&amp;rsquo;s flagship store, where ki
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/brand-retail/coca-cola-kissy-puppies_hu26f94cda226e16f0ebc23ed4c1bdd2a8_350909_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/coca-cola-kissy-puppies_hu26f94cda226e16f0ebc23ed4c1bdd2a8_350909_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/brand-retail/coca-cola-kissy-puppies_hu26f94cda226e16f0ebc23ed4c1bdd2a8_350909_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;910&#34; height=&#34;683&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/coca-cola-kissy-puppies_hu26f94cda226e16f0ebc23ed4c1bdd2a8_350909_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;910&#34; height=&#34;683&#34;&gt;
 &lt;/a&gt;
 
 
@@ -977,10 +1534,10 @@ A large-scale augmented reality experience, where families are being chased by f
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/brand-retail/diageo-interactive-shelves_hu4f41ce383d5821bef631e7a7279a0808_890855_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/diageo-interactive-shelves_hu4f41ce383d5821bef631e7a7279a0808_890855_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/brand-retail/diageo-interactive-shelves_hu4f41ce383d5821bef631e7a7279a0808_890855_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2197&#34; height=&#34;1647&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/diageo-interactive-shelves_hu4f41ce383d5821bef631e7a7279a0808_890855_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2197&#34; height=&#34;1647&#34;&gt;
 &lt;/a&gt;
 
 
@@ -1010,10 +1567,10 @@ An add-on product shelf equipped with motion and height sensors. It provides aud
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/brand-retail/santander1_hu7c7176a7f36dfcceb4ef7d358eff4912_265271_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/santander1_hu7c7176a7f36dfcceb4ef7d358eff4912_265271_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/brand-retail/santander1_hu7c7176a7f36dfcceb4ef7d358eff4912_265271_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;360&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/santander1_hu7c7176a7f36dfcceb4ef7d358eff4912_265271_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;360&#34;&gt;
 &lt;/a&gt;
 
 
@@ -1042,10 +1599,10 @@ Santander contracted YDreams to create the most futuristic and unique interactiv
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/brand-retail/santander2_hubf0e5efa2aa30a0a4bdf5bb721a7372c_924295_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;The concierge robots that welcome new visitors and accompany them to their chosen destination.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/santander2_hubf0e5efa2aa30a0a4bdf5bb721a7372c_924295_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;The concierge robots that welcome new visitors and accompany them to their chosen destination.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/brand-retail/santander2_hubf0e5efa2aa30a0a4bdf5bb721a7372c_924295_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2201&#34; height=&#34;1651&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/santander2_hubf0e5efa2aa30a0a4bdf5bb721a7372c_924295_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2201&#34; height=&#34;1651&#34;&gt;
 &lt;/a&gt;
 
 
@@ -1079,10 +1636,10 @@ Santander contracted YDreams to create the most futuristic and unique interactiv
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/brand-retail/santander3_hu413e89f3f458010bc8872f23bf2c5b98_681932_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;An augmented reality overlay on top of the architectural scale model of Ciudad Santander.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/santander3_hu413e89f3f458010bc8872f23bf2c5b98_681932_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;An augmented reality overlay on top of the architectural scale model of Ciudad Santander.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/brand-retail/santander3_hu413e89f3f458010bc8872f23bf2c5b98_681932_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2207&#34; height=&#34;1652&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/santander3_hu413e89f3f458010bc8872f23bf2c5b98_681932_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2207&#34; height=&#34;1652&#34;&gt;
 &lt;/a&gt;
 
 
@@ -1117,10 +1674,10 @@ Santander contracted YDreams to create the most futuristic and unique interactiv
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/brand-retail/nike-free-throw_hu971dec6bc77cb7c444b9f65837c56242_676706_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/nike-free-throw_hu971dec6bc77cb7c444b9f65837c56242_676706_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/brand-retail/nike-free-throw_hu971dec6bc77cb7c444b9f65837c56242_676706_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;622&#34; height=&#34;467&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/nike-free-throw_hu971dec6bc77cb7c444b9f65837c56242_676706_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;622&#34; height=&#34;467&#34;&gt;
 &lt;/a&gt;
 
 
@@ -1150,10 +1707,10 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/brand-retail/lego-aquarium-1_hue93770a525ae157f4ec40a10fb2cc6f1_275973_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/lego-aquarium-1_hue93770a525ae157f4ec40a10fb2cc6f1_275973_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/brand-retail/lego-aquarium-1_hue93770a525ae157f4ec40a10fb2cc6f1_275973_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;360&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/lego-aquarium-1_hue93770a525ae157f4ec40a10fb2cc6f1_275973_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;360&#34;&gt;
 &lt;/a&gt;
 
 
@@ -1181,10 +1738,10 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/brand-retail/lego-aquarium-2_hub5e9add905e0d45ec3c7b417e06b1dcf_204709_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/brand-retail/lego-aquarium-2_hub5e9add905e0d45ec3c7b417e06b1dcf_204709_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/brand-retail/lego-aquarium-2_hub5e9add905e0d45ec3c7b417e06b1dcf_204709_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;360&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/brand-retail/lego-aquarium-2_hub5e9add905e0d45ec3c7b417e06b1dcf_204709_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;640&#34; height=&#34;360&#34;&gt;
 &lt;/a&gt;
 
 
@@ -1248,9 +1805,9 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
     
     <item>
       <title>Museums</title>
-      <link>/project/museums/</link>
+      <link>https://ifranco.github.io/project/museums/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/project/museums/</guid>
+      <guid>https://ifranco.github.io/project/museums/</guid>
       <description>&lt;p&gt;In 2002 YDreams created several interactive installations for the &amp;ldquo;Engenho e Obra&amp;rdquo; science exhibition, displayed at the Cordoaria Nacional building in Lisbon. At the time this was probably the most technologically advanced exhibition ever done in Portugal. We debuted many of the novel physical interaction principles that would later be used in many YDreams products and services. The &amp;ldquo;Engenho e Obra&amp;rdquo; exhibition won the 2012 
 &lt;a href=&#34;https://www.historyoftechnology.org/about-us/awards-prizes-and-grants/the-dibner-award/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dibner award for Excellence in Museum Exhibits&lt;/a&gt;
 .&lt;/p&gt;
@@ -1275,10 +1832,10 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/museums/engenho-e-obra_hu155555a7694a3bd3454f22517d036d77_554157_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;One of Engenho e Obra&amp;rsquo;s installations: an interactive table with physical discs to simulate water pollutant dispersion.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/museums/engenho-e-obra_hu155555a7694a3bd3454f22517d036d77_554157_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;One of Engenho e Obra&amp;rsquo;s installations: an interactive table with physical discs to simulate water pollutant dispersion.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/project/museums/engenho-e-obra_hu155555a7694a3bd3454f22517d036d77_554157_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1000&#34; height=&#34;410&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/engenho-e-obra_hu155555a7694a3bd3454f22517d036d77_554157_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1000&#34; height=&#34;410&#34;&gt;
 &lt;/a&gt;
 
 
@@ -1319,8 +1876,8 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/museums/gallery/2002-house-of-the-future-garden.jpg&#34; data-caption=&#34;Casa do Futuro (2002).&#34;&gt;
-  &lt;img data-src=&#34;/project/museums/gallery/2002-house-of-the-future-garden_hu4185aaeb14890b22421d8cd23f7e66f6_2759566_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2002-house-of-the-future-garden.jpg&#34; data-caption=&#34;Casa do Futuro (2002).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2002-house-of-the-future-garden_hu4185aaeb14890b22421d8cd23f7e66f6_2759566_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1332,8 +1889,8 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/museums/gallery/2004-braganza-interactive-science-center.jpg&#34; data-caption=&#34;Braganza Science Center (2004).&#34;&gt;
-  &lt;img data-src=&#34;/project/museums/gallery/2004-braganza-interactive-science-center_hud1add2e160e163e8a63e0181ff2e8068_503715_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2004-braganza-interactive-science-center.jpg&#34; data-caption=&#34;Braganza Science Center (2004).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2004-braganza-interactive-science-center_hud1add2e160e163e8a63e0181ff2e8068_503715_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1345,8 +1902,8 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/museums/gallery/2007-egf.jpg&#34; data-caption=&#34;EGF Roadshow (2007).&#34;&gt;
-  &lt;img data-src=&#34;/project/museums/gallery/2007-egf_hu3b329fd5fe1f1cafde2d5f01da7467da_584836_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2007-egf.jpg&#34; data-caption=&#34;EGF Roadshow (2007).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2007-egf_hu3b329fd5fe1f1cafde2d5f01da7467da_584836_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1358,8 +1915,8 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/museums/gallery/2008-museum-of-discoveries.jpg&#34; data-caption=&#34;Museum of Discoveries (2008).&#34;&gt;
-  &lt;img data-src=&#34;/project/museums/gallery/2008-museum-of-discoveries_hu7ee3dabadb9345ae8344abcf603edb07_882397_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2008-museum-of-discoveries.jpg&#34; data-caption=&#34;Museum of Discoveries (2008).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2008-museum-of-discoveries_hu7ee3dabadb9345ae8344abcf603edb07_882397_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1371,8 +1928,8 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/museums/gallery/2009-environmental-center-of-castelo-branco.jpg&#34; data-caption=&#34;Environmental Center of Castelo Branco (2009).&#34;&gt;
-  &lt;img data-src=&#34;/project/museums/gallery/2009-environmental-center-of-castelo-branco_hu053fc32ead1eeb1268158a39c775c6c1_887173_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2009-environmental-center-of-castelo-branco.jpg&#34; data-caption=&#34;Environmental Center of Castelo Branco (2009).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2009-environmental-center-of-castelo-branco_hu053fc32ead1eeb1268158a39c775c6c1_887173_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1384,8 +1941,8 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/museums/gallery/2010-btek.jpg&#34; data-caption=&#34;BTEK Technology Interpretation Center (2010).&#34;&gt;
-  &lt;img data-src=&#34;/project/museums/gallery/2010-btek_huc344b8243dd7fad244cd94bfba1ac06f_1011825_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2010-btek.jpg&#34; data-caption=&#34;BTEK Technology Interpretation Center (2010).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2010-btek_huc344b8243dd7fad244cd94bfba1ac06f_1011825_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1397,8 +1954,8 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/museums/gallery/2010-family-blue-park.jpg&#34; data-caption=&#34;Family Blue Park (2010).&#34;&gt;
-  &lt;img data-src=&#34;/project/museums/gallery/2010-family-blue-park_hu59e9d4c65b1a70dfc5883f08a1ee7314_783374_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2010-family-blue-park.jpg&#34; data-caption=&#34;Family Blue Park (2010).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2010-family-blue-park_hu59e9d4c65b1a70dfc5883f08a1ee7314_783374_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1410,8 +1967,8 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/museums/gallery/2011-blau-museum.jpg&#34; data-caption=&#34;Natural Science Museum Blau (2011).&#34;&gt;
-  &lt;img data-src=&#34;/project/museums/gallery/2011-blau-museum_hu32da8ebc81383700b8f545e352a0de82_796732_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2011-blau-museum.jpg&#34; data-caption=&#34;Natural Science Museum Blau (2011).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2011-blau-museum_hu32da8ebc81383700b8f545e352a0de82_796732_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1423,8 +1980,8 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/museums/gallery/2012-jewish-museum.jpg&#34; data-caption=&#34;JEWISH MUSEUM &amp;amp;amp; TOLERANCE CENTER (2012).&#34;&gt;
-  &lt;img data-src=&#34;/project/museums/gallery/2012-jewish-museum_hubca3becea2713ccd897511c9e9140355_798242_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2012-jewish-museum.jpg&#34; data-caption=&#34;JEWISH MUSEUM &amp;amp;amp; TOLERANCE CENTER (2012).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2012-jewish-museum_hubca3becea2713ccd897511c9e9140355_798242_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1436,8 +1993,8 @@ A NBA-branded free-throw game created for Nike Los Angeles. It uses depth-sensin
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/museums/gallery/2012-quartz-museum.jpg&#34; data-caption=&#34;Quartz Museum (2012).&#34;&gt;
-  &lt;img data-src=&#34;/project/museums/gallery/2012-quartz-museum_hu868c972bbba5b0809d7bd3b9374e3b8e_542653_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/museums/gallery/2012-quartz-museum.jpg&#34; data-caption=&#34;Quartz Museum (2012).&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/museums/gallery/2012-quartz-museum_hu868c972bbba5b0809d7bd3b9374e3b8e_542653_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 

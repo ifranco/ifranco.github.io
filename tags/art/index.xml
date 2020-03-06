@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>art | Ivan Franco</title>
-    <link>/tags/art/</link>
-      <atom:link href="/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ifranco.github.io/tags/art/</link>
+      <atom:link href="https://ifranco.github.io/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <description>art</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>art</title>
-      <link>/tags/art/</link>
+      <link>https://ifranco.github.io/tags/art/</link>
     </image>
     
     <item>
       <title>Haptic Field</title>
-      <link>/project/haptic-field/</link>
+      <link>https://ifranco.github.io/project/haptic-field/</link>
       <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/project/haptic-field/</guid>
+      <guid>https://ifranco.github.io/project/haptic-field/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prynth</title>
-      <link>/project/prynth/</link>
+      <link>https://ifranco.github.io/project/prynth/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/project/prynth/</guid>
+      <guid>https://ifranco.github.io/project/prynth/</guid>
       <description>&lt;p&gt;Prynth are programmable sound synthesizers powered by single-board computers. They combine the advantages of dedicated hardware with the flexibility of programming.&lt;/p&gt;
 &lt;p&gt;This project&amp;rsquo;s goal is to develop a set of free technologies and guides for instrument assembly, while fostering knowledge exchange and discussion between creators.&lt;/p&gt;
 &lt;p&gt;For more information visit the 
@@ -59,8 +59,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/control_rpi.jpg&#34; data-caption=&#34;Prynth&amp;amp;rsquo;s base hardware system.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/control_rpi_hu75b438d50cc80c55d80a4c4e6f8bff49_632359_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/control_rpi.jpg&#34; data-caption=&#34;Prynth&amp;amp;rsquo;s base hardware system.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/control_rpi_hu75b438d50cc80c55d80a4c4e6f8bff49_632359_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -72,8 +72,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/mitt_composition.png&#34; data-caption=&#34;The Mitt, my own instrument.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/mitt_composition_hud47a73a396af7447fd38496d5c6f9504_33233483_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/mitt_composition.png&#34; data-caption=&#34;The Mitt, my own instrument.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/mitt_composition_hud47a73a396af7447fd38496d5c6f9504_33233483_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -85,8 +85,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/noisebox3.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/noisebox3_hu1ef4a4afe9caffe5e78077dd4e9d7047_945428_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox3.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox3_hu1ef4a4afe9caffe5e78077dd4e9d7047_945428_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -98,8 +98,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/noisebox4.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/noisebox4_hu1be48b288e9fc5ee91e7a968a03f492e_649921_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;126&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox4.jpg&#34; data-caption=&#34;John Sullivan&amp;amp;rsquo;s Noiseboxes.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/noisebox4_hu1be48b288e9fc5ee91e7a968a03f492e_649921_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;126&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -111,8 +111,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/rr1.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/rr1_huc797396d9f3d6b910be8d805291db43d_159941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/rr1.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/rr1_huc797396d9f3d6b910be8d805291db43d_159941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -124,8 +124,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/rr3.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/rr3_hu48b0e80ee95aa58f48c045794e35b51a_205156_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/rr3.jpg&#34; data-caption=&#34;RR by Daniel Górny.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/rr3_hu48b0e80ee95aa58f48c045794e35b51a_205156_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -137,8 +137,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/soundboard1.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/soundboard1_hu5d2f68952d89739b943829766d849621_100546_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard1.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard1_hu5d2f68952d89739b943829766d849621_100546_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -150,8 +150,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/project/prynth/gallery/soundboard2.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
-  &lt;img data-src=&#34;/project/prynth/gallery/soundboard2_hub11a01f88290f86b3b46a3200c14cf57_356078_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard2.jpg&#34; data-caption=&#34;The Sonio soundboard by Marc St. Pierre et al.&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/prynth/gallery/soundboard2_hub11a01f88290f86b3b46a3200c14cf57_356078_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -171,18 +171,376 @@
     
     <item>
       <title>Ilinx</title>
-      <link>/project/ilinx/</link>
+      <link>https://ifranco.github.io/project/ilinx/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>/project/ilinx/</guid>
+      <guid>https://ifranco.github.io/project/ilinx/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Strings of Thought 2</title>
+      <link>https://ifranco.github.io/project/strings-of-thought-2/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/strings-of-thought-2/</guid>
+      <description>&lt;p&gt;A woman sits on a chair and from her head several strings emerge to form a network structure like dendritic trees of neurons. These cells generate electric signals based on potential voltage and the reaction to outside stimuli.&lt;/p&gt;
+&lt;p&gt;Strings of Thought 2 is an interactive installation that invites the audience to explore and play with a musical meta-instrument and collaboratively create an intricate soundscape. It is an hybrid art piece of music, performance and installation, that depicts the process of human mental activity and its decomposition into the simpler synaptic events of the brain.&lt;/p&gt;
+&lt;p&gt;The audience enters a room to find a woman sitting on a chair. From her hair several strings protrude, which in turn are attached to piezoelectric sensors. The plucking of the strings generates voltage spikes on the sensor array that sends these electrical pulses to the computer, while a program written in Supercollider reinterprets this data and shapes it into sonic structures. This process very clearly resembles its biological counterpart happening at the neural level.&lt;/p&gt;
+&lt;p&gt;The result is a peek into the soul of this lady character, as the audience is invited to play the instrument and create a soundscape composed of music and also the inner voices of this woman’s reasoning. Through this digital aesthetic artists Ivan Franco and Lígia Teixeira explore the recreation of the process of neural transmission in the brain and how this biological process evolves into the complexity of consciousness.&lt;/p&gt;
+&lt;h3 id=&#34;strings-of-thought-2--harvestworksny-2013&#34;&gt;Strings of Thought 2 @ Harvestworks(NY 2013)&lt;/h3&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings1.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings1_hubdf01072093ceb57d3a137be70742a2c_493982_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings2.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings2_hu22c9a430b12b6babfee7d9fec1c3fa92_489286_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings3.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings3_hu14deedbce39b8ad18adbe77e4145df88_542201_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings4.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings4_hu567caaca44b61e570ffb2299cf6dba36_564751_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings5.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings5_hu08b47d270e20aa5f3a0811b949d9945c_532664_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings6.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings6_hu8a213c27ea43bacf840328a022340714_497648_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings7.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings7_hufc37062ba084482eebab7b91676988cd_568443_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings8.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings8_hub9eb76a52ebc1909b82c156c361ef31c_501047_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt; --&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings1.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings1_hubdf01072093ceb57d3a137be70742a2c_493982_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings2.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings2_hu22c9a430b12b6babfee7d9fec1c3fa92_489286_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings3.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings3_hu14deedbce39b8ad18adbe77e4145df88_542201_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings4.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings4_hu567caaca44b61e570ffb2299cf6dba36_564751_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings5.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings5_hu08b47d270e20aa5f3a0811b949d9945c_532664_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings6.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings6_hu8a213c27ea43bacf840328a022340714_497648_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings7.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings7_hufc37062ba084482eebab7b91676988cd_568443_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings8.png&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought-2/gallery/strings8_hub9eb76a52ebc1909b82c156c361ef31c_501047_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+&lt;p&gt;Artistic Direction, Performance: Ivan Franco and Lígia Teixeira&lt;/p&gt;
+&lt;p&gt;Concept: Lígia Teixeira&lt;/p&gt;
+&lt;p&gt;Sound, Programming, Electronics: Ivan Franco&lt;/p&gt;
+&lt;p&gt;Text: Liza Wade Green&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;A MILLIWAYS production, in partnership with Harvestworks(NY).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ifranco.github.io/project/contact/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/contact/</guid>
+      <description>&lt;p&gt;Contact is a performance/installation of electronic music, where a set of custom instruments that are first played by Ivan Franco and later offered to the audience to invite participation and collaboration in the musical event. Contact&amp;rsquo;s meta-instruments are send data to a central software system with an algorithmic music program that creates a coherent musical output.&lt;/p&gt;
+&lt;p&gt;In “Close Encounters of the Third Kind”, Steven Spielberg explores the idea of music patterns to communicate with alien life. The two species are bound by the simplification of language into the common traits of musical scales and the ability to understand harmony. The goal in this piece is to challenge the spectator to be a part of the musical experimentation, by breaking formal stage boundaries and bringing the audience into the performative space. This first-hand participation in the sonic experience yields interesting results, as the audience explores their performative sensibility and music as a form of communication.&lt;/p&gt;
+&lt;p&gt;Contact premiered at Culturgest in December 2012, as part of the 27 Sentidos cycle promoted by Granular.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/contact/gallery/contact1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/contact/gallery/contact1_hu608f4e53ea8b255795801355588f7ab0_24898_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/contact/gallery/contact3.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/contact/gallery/contact3_hu8fa8d78a0d7eb97b13542bf02fc609c9_40057_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/contact/gallery/contact4.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/contact/gallery/contact4_hu460cf71337048856dbcfb22adcb8c376_46015_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/contact/gallery/contact5.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/contact/gallery/contact5_hu19fd8861d77bc7d0df3264d8a5861309_75874_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+&lt;p&gt;Artistic direction, hardware and software: Ivan Franco&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;Granular&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Strings of Thought</title>
-      <link>/project/strings-of-thought/</link>
+      <link>https://ifranco.github.io/project/strings-of-thought/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/project/strings-of-thought/</guid>
-      <description>&lt;p&gt;STRINGS OF THOUGHT is a contemporary dance piece that uses digital media as part of an interactive scenography. Conceptually, the project intends to evoke human self-reflection and its consequence on the decision-making process. This introspection also questions the duality of who we are and who we wish to be.&lt;/p&gt;
+      <guid>https://ifranco.github.io/project/strings-of-thought/</guid>
+      <description>&lt;p&gt;Strings of Thought is a contemporary dance piece using interactive scenography. Conceptually, the project intends to evoke human self-reflection and its consequence on the decision-making process. This introspection also questions the duality of who we are and who we wish to be.&lt;/p&gt;
 
 
 
@@ -204,17 +562,49 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/strings-of-thought/strings_hu706ebd9cbf780653c64ec1c85f812bb4_152257_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought/strings_hu706ebd9cbf780653c64ec1c85f812bb4_152257_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/strings-of-thought/strings_hu706ebd9cbf780653c64ec1c85f812bb4_152257_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;533&#34;&gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought/strings_hu706ebd9cbf780653c64ec1c85f812bb4_152257_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;533&#34;&gt;
 &lt;/a&gt;
 
 
 
 &lt;/figure&gt;
 
-&lt;p&gt;In the performance, this argumentation is materialized through a scenic setup of suspended cables attached to various points of the dancer&amp;rsquo;s body. They represent the abstractions of our personal dogmas, conditioning movement and dexterity. This group of cables presents interesting physical responses, since they can both retract or extend. They also have a braking system, so that acceleration over a certain threshold will block the performers movement. Furthermore a set of electronic sensors were installed, granting the ability to digitally monitor several properties of the cable and thus dynamically generate sound and light, through the connection to interactive digital systems. These interactive systems are comprised of custom electronics and computer programs that were specially created to operate in realtime, allowing the choreography to become a motor for all the music and stage effects.&lt;/p&gt;
+&lt;p&gt;In the performance, this argumentation is materialized through a scenic setup of suspended cables attached to various points of the dancer&amp;rsquo;s body. They represent the abstractions of our personal dogmas, conditioning movement and dexterity. This group of cables presents interesting physical responses, since they can both retract or extend. They also have a braking system, so that acceleration over a certain threshold will block the performers movement.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/strings-of-thought/strings2_hu7994c5d5a85c0bb54717ac81f930f3ff_161873_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/strings-of-thought/strings2_hu7994c5d5a85c0bb54717ac81f930f3ff_161873_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;533&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The cables have a set of embedded sensors that measure linear movement and weight, generating data to digitally control light and sound. These interactive systems operate in realtime, allowing the choreography to become the motor for all the music and stage effects.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/49363337&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -237,6 +627,129 @@
 &lt;p&gt;A MILLIWAYS co-production with Guimarães 2012 European Capital of Culture.&lt;/p&gt;
 &lt;p&gt;In partnership with 3LD Art + Technology Center and Minho University.&lt;/p&gt;
 &lt;p&gt;This project was financed by the Portuguese State Secretary of Culture / DGArtes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Algum Dia Tinha de Ser a Sério</title>
+      <link>https://ifranco.github.io/project/algum-dia/</link>
+      <pubDate>Sat, 08 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/algum-dia/</guid>
+      <description>&lt;p&gt;“Algum Dia Tinha De Ser A Sério” is a dance piece directed by me and Lígia Teixeira. It’s about the relationship between a woman and her imaginary companion. The woman lives between two spaces: bed and concrete reality.&lt;/p&gt;
+&lt;p&gt;Placed on the bed is a full sized aquarium, representing the woman’s dream-space. The man’s image lives bi-dimensionally both on the bed and the aquarium’s side. They interact in a love dance and are participants in the woman’s shift between the two worlds of dream and reality, from passion to disillusion.&lt;/p&gt;
+&lt;p&gt;The Performance:&lt;/p&gt;
+&lt;p&gt;“Algum Dia Tinha de Ser a Sério” is a dance performance which represents the love relationship between a woman and an imaginary man, by staging the telematic contact between the two. In a room, where a bed bridges between real and imaginary, the lovers inhabit different dimensions: while the tridimensional woman is inside the aquarium, the bi-dimensional man is on the bed.&lt;/p&gt;
+&lt;p&gt;Technically the telematic experience is accomplished by using two synchronized projections of the man on the bed, captured in realtime in an alternate room, where the dancer is filmed. He also has reference video monitors, which allow him to see the stage action. The woman is inside a full water tank, placed over the bed, where the two projections (vertical and horizontal) are applied on the bed’s surface and on the back face of the aquarium. Image projection over the tank’s translucent surface is possible by using a special transparent film, which induces the illusion of a holographic video image.&lt;/p&gt;
+&lt;p&gt;The feminine character is also confronted with a third space: the outside world. It reveals the harsh confrontation with the “concréte” quotidian, a world apart from the room, the dream’s private space, able to induce the illusion for the imaginary lover. The traveling between these two worlds is symbolized by a lamp, switched on and off by the dancer, transporting her from one world to the other.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/algum-dia/gallery/alternate-room-1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/algum-dia/gallery/alternate-room-1_hu3d03a01dcc18bc5be0e67db3d8d209a6_66667_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/algum-dia/gallery/lamp.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/algum-dia/gallery/lamp_hu8264a01132114097428ad014d54a3696_82828_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;126&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/algum-dia/gallery/lovers-1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/algum-dia/gallery/lovers-1_hua2ca5ef6b086145235a2584a4da71efe_46914_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/algum-dia/gallery/lovers-2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/algum-dia/gallery/lovers-2_hu3d03a01dcc18bc5be0e67db3d8d209a6_50881_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/algum-dia/gallery/man.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/algum-dia/gallery/man_hu3d03a01dcc18bc5be0e67db3d8d209a6_70399_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ifranco.github.io/project/algum-dia/gallery/schematics.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ifranco.github.io/project/algum-dia/gallery/schematics_hu3d03a01dcc18bc5be0e67db3d8d209a6_92370_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;259&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+&lt;p&gt;Artistic Direction: Ivan Franco and Lígia Teixeira&lt;/p&gt;
+&lt;p&gt;Choreography: Lígia Teixeira&lt;/p&gt;
+&lt;p&gt;Interpretation: Lígia Teixeira and David Marques&lt;/p&gt;
+&lt;p&gt;Music: Ivan Franco e André Nascimento&lt;/p&gt;
+&lt;p&gt;Light Design: André Almeida&lt;/p&gt;
+&lt;p&gt;Programming: Gonçalo Lopes, André Almeida and Ivan Franco&lt;/p&gt;
+&lt;p&gt;Technical Assistance: Coias&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;Centro Cultural de Belém&lt;/p&gt;
 </description>
     </item>
     
