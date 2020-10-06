@@ -5,12 +5,71 @@
     <link>https://ifranco.github.io/tags/work/</link>
       <atom:link href="https://ifranco.github.io/tags/work/index.xml" rel="self" type="application/rss+xml" />
     <description>work</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>work</title>
       <link>https://ifranco.github.io/tags/work/</link>
     </image>
+    
+    <item>
+      <title>Vibropixels</title>
+      <link>https://ifranco.github.io/project/vibropixels/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ifranco.github.io/project/vibropixels/</guid>
+      <description>&lt;p&gt;The Vibropixels are self-contained haptic devices, composed of two vibrotactile actuators, four RGB LEDs and a battery. They can be used to create haptic feedback systems for wearables or other interactive devices. The Vibropixels can be controlled individually or by the hundreds, which makes them useful for interactive works with many users or the creation of high-density tactile displays.&lt;/p&gt;
+&lt;p&gt;The Vibropixels were used in Haptic Fields by Chris Salter and Tez.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://ifranco.github.io/project/vibropixels/VPs_manufacture_huf8690bd31b26794d34b9cd6d5b8623f0_56891_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;140 Vibropixels, manufactured for the Haptic Fields interactive installation (photo by Ian Hattwick).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://ifranco.github.io/project/vibropixels/VPs_manufacture_huf8690bd31b26794d34b9cd6d5b8623f0_56891_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;300&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    140 Vibropixels, manufactured for the Haptic Fields interactive installation (photo by Ian Hattwick).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RgLn6MHrKeQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+&lt;p&gt;Ian Hattwick and Ivan Franco: Hardware and Software design&lt;/p&gt;
+&lt;p&gt;Marcelo M. Wanderley: Technical Supervision&lt;/p&gt;
+&lt;p&gt;Chris Salter: Artistic Supervision&lt;/p&gt;
+&lt;p&gt;Patrick Ignoto, Julian Neri, Alex Nieva, and Louis Fournier: Technical assistance&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;Funding provided by the Fonds de recherche du Québec – Société et culture&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ynvisible</title>
